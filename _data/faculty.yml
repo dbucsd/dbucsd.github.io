@@ -1,7 +1,7 @@
 - name: Alin Deutch
   photo: alin.jpg
   web: http://db.ucsd.edu/People/alin/
-  info: "Alin's interests include: prdata publishing and integration, specification and verification of database-powered business processes and semistructured and XML data. His research is currently sponsored by the NSF."
+  info: "Alin's interests include prdata publishing and integration, specification and verification of database-powered business processes and semistructured and XML data. His research is currently sponsored by the NSF."
   scholar: https://scholar.google.com/citations?user=2lZr6WsAAAAJ&hl=en&oi=ao
 - name: Arun Kumar
   photo: arun.jpg
@@ -11,7 +11,7 @@
 - name: Yannis Papakonstantinou
   photo: yannis.jpg
   web: http://db.ucsd.edu/People/yannis.htm
-  info: "Yannis Papakonstantinou is a Professor of Computer Science and Engineering at the University of California, San Diego. His research extends the capabilities of data platforms and query processors. He has published over 100 research articles with more than 14,000 citations."
+  info: "Yannis' research extends the capabilities of data platforms and query processors. He has published over 100 research articles with more than 14,000 citations."
   scholar: https://scholar.google.com/citations?user=81cvn3sAAAAJ&hl=en&oi=ao
 - name: Victor Vianu
   photo: victor.jpg

@@ -1,12 +1,32 @@
 - code: CSE 232A
   name: Graduate Database Systems
-  link: https://cseweb.ucsd.edu/classes/fa18/cse232-a/
+  link: https://cseweb.ucsd.edu/classes/fa19/cse232-a/
   level: graduate
-- code: CSE 190
-  name: Graduate Database Systems
-  link: https://cseweb.ucsd.edu/classes/fa18/cse232-a/
+- code: CSE 232B
+  name: Database Systems: Advanced Topics and Implementation
+  link: https://cseweb.ucsd.edu/classes/wi19/cse232B-a/
+  level: graduate
+- code: CSE 233
+  name: Database Theory
+  link: 
+  level: graduate
+- code: CSE 291
+  name: Advanced Data Analytics and ML Systems
+  link: http://cseweb.ucsd.edu/classes/wi19/cse291-f/
+  level: graduate
+- code: CSE 132A
+  name: Database System Principles
+  link: https://cseweb.ucsd.edu/classes/wi19/cse132A-a/
   level: undergraduate
-- code: CSE 232A
-  name: Graduate Database Systems
-  link: https://cseweb.ucsd.edu/classes/fa18/cse232-a/
+- code: CSE 132B
+  name: Database System Application
+  link: https://cseweb.ucsd.edu/classes/wi19/cse132B-a/
+  level: undergraduate
+- code: CSE 190
+  name: Database System Implementation
+  link: http://cseweb.ucsd.edu/classes/sp19/cse190-d/
+  level: undergraduate
+- code: CSE 239A
+  name: Database Seminar
+  link: https://dbucsd.github.io/seminar
   level: seminar

@@ -1,12 +1,15 @@
-- name: Costas (Konstantinos) Zarifis
-  web : http://zarifis.info/
-- name: Chunbin Lin
-  web : http://cseweb.ucsd.edu/~chunbinlin/
-- name: Vicky Papavasileiou
-  web : http://cseweb.ucsd.edu/~vpapavas/
+- name: Andrey Balmin
+  web: https://www.linkedin.com/pub/andrey-balmin/5/9a3/293
+- name: Yannis Katsis
+  web: http://cseweb.ucsd.edu/~ikatsis/
 - name: Yuliang Li
   web : https://oi02lyl.github.io/
-- name: Jianguo WANG
+- name: Chunbin Lin
+  web : http://cseweb.ucsd.edu/~chunbinlin/
+- name: Jianguo Wang
   web : http://cseweb.ucsd.edu/~csjgwang/
 - name: Alan Nash
-  web :
+- name: Vicky Papavasileiou
+  web : http://cseweb.ucsd.edu/~vpapavas/
+- name: Costas (Konstantinos) Zarifis
+  web : http://zarifis.info/
