@@ -1,4 +1,5 @@
 - name: Rana Alotaibi
+  photo: blank.png
   web: http://cseweb.ucsd.edu/~ralotaib/
   info: "Rana's research interests lie in hybrid stores databases, large scale data integration and scalable self tuning database systems."
 - name: Nikos Koulouris
