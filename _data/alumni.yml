@@ -1,15 +1,44 @@
-- name: Andrey Balmin
-  web: https://www.linkedin.com/pub/andrey-balmin/5/9a3/293
-- name: Yannis Katsis
-  web: http://cseweb.ucsd.edu/~ikatsis/
-- name: Yuliang Li
-  web : https://oi02lyl.github.io/
-- name: Chunbin Lin
-  web : http://cseweb.ucsd.edu/~chunbinlin/
-- name: Jianguo Wang
-  web : http://cseweb.ucsd.edu/~csjgwang/
-- name: Alan Nash
 - name: Vicky Papavasileiou
+  year: 2019
+  type: PhD
   web : http://cseweb.ucsd.edu/~vpapavas/
-- name: Costas (Konstantinos) Zarifis
+  advisor: Alin Deutsch
+- name: Konstantinos (Costas) Zarifis
+  year: 2019
+  type: PhD
   web : http://zarifis.info/
+  advisor: Yannis Papakonstantinou
+- name: Yuliang Li
+  year: 2018
+  type: PhD
+  web : https://oi02lyl.github.io/
+  advisor: Alin Deutsch and Victor Vianu
+- name: Chunbin Lin
+  year: 2018
+  type: PhD
+  web : http://cseweb.ucsd.edu/~chunbinlin/
+  advisor: Yannis Papakonstantinou
+- name: Jianguo Wang
+  year: 2018
+  type: PhD
+  web : http://cseweb.ucsd.edu/~csjgwang/
+  advisor: Yannis Papakonstantinou and Steve Swanson
+- name: Yannis Katsis
+  year: 2017
+  type: PostDoc
+  web: http://cseweb.ucsd.edu/~ikatsis/
+  advisor: Yannis Papakonstantinou
+- name: Yannis Katsis
+  year: 2015
+  type: PhD
+  web: http://cseweb.ucsd.edu/~ikatsis/
+  advisor: Yannis Papakonstantinou
+- name: Alan Nash (late)
+  year: 2011 (Deceased during PhD)
+  type: PhD
+  advisor: Alin Deutsch and Victor Vianu
+- name: Andrey Balmin
+  year: 2010
+  type: PhD
+  web: https://www.linkedin.com/pub/andrey-balmin/5/9a3/293
+  advisor: Alin Deutsch

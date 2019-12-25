@@ -9,8 +9,8 @@
 - code: CSE 233
   name: Database Theory
   level: graduate
-- code: CSE 291
-  name: Advanced Data Analytics and ML Systems
+- code: CSE 234 (formerly CSE 291)
+  name: Data Systems for Machine Learning
   link: http://cseweb.ucsd.edu/classes/wi19/cse291-f/
   level: graduate
 - code: CSE 132A
@@ -18,12 +18,15 @@
   link: https://cseweb.ucsd.edu/classes/wi19/cse132A-a/
   level: undergraduate
 - code: CSE 132B
-  name: Database System Application
+  name: Database System Applications
   link: https://cseweb.ucsd.edu/classes/wi19/cse132B-a/
   level: undergraduate
-- code: CSE 190
+- code: CSE 132C (formerly CSE 190)
   name: Database System Implementation
   link: http://cseweb.ucsd.edu/classes/sp19/cse190-d/
+  level: undergraduate
+- code: DSC 102
+  name: Systems for Scalable Analytics
   level: undergraduate
 - code: CSE 239A
   name: Database Seminar

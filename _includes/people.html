@@ -71,7 +71,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
 
 
 
-<h3 id="phd-students-and-postdoc-researchers">Ph.D. Students and Postdoc Researchers</h3>
+<h3 id="phd-students-and-postdoc-researchers">PhD Students and Postdocs</h3>
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -151,6 +151,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
   {% else %}
       <h5>{{ member.name }}</h5>
   {% endif %}
+  ; {{ member.type }} ; {{ member.year }} ; Advised by: {{ member.advisor }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

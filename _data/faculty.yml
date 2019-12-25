@@ -6,7 +6,7 @@
 - name: Arun Kumar
   photo: arun.jpg
   web: http://cseweb.ucsd.edu/~arunkk/
-  info: "Arun Kumar's current research interests are at the intersection of data management and machine learning. His research focuses on designing abstractions, algorithms, and systems that make it easier and faster to analyze large and complex datasets using machine learning."
+  info: "Arun's research interests are in data management and systems for machine learning-based data analytics. His research focuses on designing abstractions, algorithms, and systems that make it easier and faster to analyze large and complex datasets using machine learning."
   scholar: https://scholar.google.com/citations?user=hZQ57XcAAAAJ&hl=en&oi=ao
 - name: Yannis Papakonstantinou
   photo: yannis.jpg

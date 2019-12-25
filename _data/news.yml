@@ -1,27 +1,34 @@
-- date: September 2016
-  headline: "<a href='http://cseweb.ucsd.edu/~arunkk/'>Arun Kumar</a> received a 2016 Google Faculty Research Award (<a href='https://research.googleblog.com/2017/02/google-research-awards-2016.html'>announcement</a>)"
-- date: 2015
-  headline: "<a href='http://ucsdnews.ucsd.edu/pressrelease/uc_san_diego_couchbase_collaborate_on_next_generation_query_language_for_bi'>UCSD and Couchbase</a>
-            collaborate on the SQL++ Next-Generation Query Language for Big Data
-            <ul>
-              <li>SQL++, Couchbase and UCSD's FORWARD project; in <a href='http://www.informationweek.com/big-data/big-data-analytics/couchbase-bets-on-standard-nosql-query-language/d/d-id/1320681?_mc=RSS_IWK_EDT'>Information Week</a></li>
-              <li>SQL will inevitably come to NoSQL databases; in <a href='http://www.theplatform.net/2015/06/03/sql-will-inevitably-come-to-nosql-databases/'>The Platform</a></li>
-            </ul>"
-- date: September 2016
-  headline: "<a href='http://cseweb.ucsd.edu/~arunkk/'>Arun Kumar</a> received a 2016 Google Faculty Research Award (<a href='https://research.googleblog.com/2017/02/google-research-awards-2016.html'>announcement</a>)"
-- date: 2015
-  headline: "<a href='http://ucsdnews.ucsd.edu/pressrelease/uc_san_diego_couchbase_collaborate_on_next_generation_query_language_for_bi'>UCSD and Couchbase</a>
-            collaborate on the SQL++ Next-Generation Query Language for Big Data
-            <ul>
-              <li>SQL++, Couchbase and UCSD's FORWARD project; in <a href='http://www.informationweek.com/big-data/big-data-analytics/couchbase-bets-on-standard-nosql-query-language/d/d-id/1320681?_mc=RSS_IWK_EDT'>Information Week</a></li>
-              <li>SQL will inevitably come to NoSQL databases; in <a href='http://www.theplatform.net/2015/06/03/sql-will-inevitably-come-to-nosql-databases/'>The Platform</a></li>
-            </ul>"
-- date: September 2016
-  headline: "<a href='http://cseweb.ucsd.edu/~arunkk/'>Arun Kumar</a> received a 2016 Google Faculty Research Award (<a href='https://research.googleblog.com/2017/02/google-research-awards-2016.html'>announcement</a>)"
-- date: 2015
-  headline: "<a href='http://ucsdnews.ucsd.edu/pressrelease/uc_san_diego_couchbase_collaborate_on_next_generation_query_language_for_bi'>UCSD and Couchbase</a>
-            collaborate on the SQL++ Next-Generation Query Language for Big Data
-            <ul>
-              <li>SQL++, Couchbase and UCSD's FORWARD project; in <a href='http://www.informationweek.com/big-data/big-data-analytics/couchbase-bets-on-standard-nosql-query-language/d/d-id/1320681?_mc=RSS_IWK_EDT'>Information Week</a></li>
-              <li>SQL will inevitably come to NoSQL databases; in <a href='http://www.theplatform.net/2015/06/03/sql-will-inevitably-come-to-nosql-databases/'>The Platform</a></li>
-            </ul>"
+- date: January 2020
+  headline: "New webpage of the Database Lab goes live."
+- date: September 2019
+  headline: "SQL++ commercialized by Amazon as PartiQL; <a href=''>link to news release</a>."
+- date: August 2019
+  headline: "Side and Tara receive an inaugural HDSI PhD Fellowship. Side also receives a JSOE PhD Fellowship."
+- date: August 2019
+  headline: "Arun receives a Distinguished Reviewer Award from VLDB 2019."
+- date: June 2019
+  headline: "Supun, Arun, and Yannis receive an Honorable Mention for Best Paper Award from ACM SIGMOD 2019; <a href=''>link to news release</a>."
+- date: June 2019
+  headline: "Vraj places second runner up at the ACM SIGMOD 2019 Student Research Competition."
+- date: June 2019
+  headline: "Arun receives a Distinguished PC Member Award from ACM SIGMOD 2019."
+- date: April 2019
+  headline: "Arun receives an Oracle Labs Faculty Research Award."
+- date: February 2019
+  headline: "Arun's research-oriented book title \"Data Management in ML Systems\" is published."
+- date: July 2018
+  headline: "Arun receives a Hellman Fellowship."
+- date: June 2018
+  headline: "Alin and late alumnus, Alan, receive a Test of Time Award from ACM PODS 2018."
+- date: May 2017
+  headline: "Victor receives a Test of Time Award from ACM PODS 2017."
+- date: May 2017
+  headline: "Arun receives a Distinguished PC Member Award from ACM SIGMOD 2017."
+- date: March 2017
+  headline: "Arun receives a Google Faculty Research Award; <a href='https://research.googleblog.com/2017/02/google-research-awards-2016.html'>link to announcement</a>."
+- date: September 2015
+  headline: "UCSD and Couchbase collaborate on the SQL++ Next-Generation Query Language for Big Data; <a href='http://ucsdnews.ucsd.edu/pressrelease/uc_san_diego_couchbase_collaborate_on_next_generation_query_language_for_bi'>link to news release</a>."
+- date: September 2015
+  headline: "SQL++, Couchbase, and UCSD's FORWARD project covered by Information Week; <a href='http://www.informationweek.com/big-data/big-data-analytics/couchbase-bets-on-standard-nosql-query-language/d/d-id/1320681?_mc=RSS_IWK_EDT'>link to article</a>."
+- date: September 2015
+  headline: "SQL++ covered by The Platform; <a href='http://www.theplatform.net/2015/06/03/sql-will-inevitably-come-to-nosql-databases/'>link to article</a>."

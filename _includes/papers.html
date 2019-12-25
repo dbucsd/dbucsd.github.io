@@ -1,0 +1,14 @@
+<div class="col-sm-12">
+  <div markdown="1">
+
+   <h1>Recent Publications</h1>
+    {% for article in site.data.papers limit:10 %}
+      <p>{{ article.year }} ; {{ article.venue }} <br> {{ article.title }} <br> {{ article.author }} 
+      {% if article.link <> '' %}
+         <br> {{ article.link }}
+      {% endif %}
+    </p> <br>
+    {% endfor %}
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/papers.html">See all publications...</a></h4>
+  </div>
+</div>
