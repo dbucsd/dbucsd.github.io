@@ -10,7 +10,7 @@ permalink: /papers.html
    <h1>Publications</h1>
     {% for article in site.data.papers %}
       <p> {{ article.title }} <br> {{ article.author }} <br> {{ article.year }} ; {{ article.venue }}
-      {% if not(article.link == "") %}
+      {% if article.link != null %}
          <br> <a href="{{ article.link }}">Link to paper</a>
       {% endif %}
     </p> <br>
