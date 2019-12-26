@@ -1,27 +1,29 @@
 - date: January 2020
   headline: "New webpage of the Database Lab goes live."
 - date: September 2019
-  headline: "SQL++ commercialized by Amazon as PartiQL; <a href=''>link to news release</a>."
+  headline: "SQL++ commercialized by Amazon as PartiQL; <a href='https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/'>link to news release</a>."
 - date: August 2019
   headline: "Side and Tara receive an inaugural HDSI PhD Fellowship. Side also receives a JSOE PhD Fellowship."
 - date: August 2019
-  headline: "Arun receives a Distinguished Reviewer Award from VLDB 2019."
+  headline: "Arun receives a Distinguished Reviewer Award from VLDB."
 - date: June 2019
-  headline: "Supun, Arun, and Yannis receive an Honorable Mention for Best Paper Award from ACM SIGMOD 2019; <a href=''>link to news release</a>."
+  headline: "Supun, Arun, and Yannis receive an Honorable Mention for Best Paper Award from ACM SIGMOD; <a href='https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FHDSI.UCSanDiego%2Fposts%2F405383050082508&width=500'>link to post</a>."
 - date: June 2019
-  headline: "Vraj places second runner up at the ACM SIGMOD 2019 Student Research Competition."
+  headline: "Vraj places second runner up at the ACM SIGMOD Student Research Competition."
 - date: June 2019
-  headline: "Arun receives a Distinguished PC Member Award from ACM SIGMOD 2019."
+  headline: "Arun receives a Distinguished PC Member Award from ACM SIGMOD."
 - date: April 2019
   headline: "Arun receives an Oracle Labs Faculty Research Award."
+- date: March 2019
+  headline: "Alin and Victor receive the Test-of-Time Award from ICDT."
 - date: February 2019
-  headline: "Arun's research-oriented book title \"Data Management in ML Systems\" is published."
+  headline: "Arun's book titled \"Data Management in ML Systems\" is published."
 - date: July 2018
   headline: "Arun receives a Hellman Fellowship."
 - date: June 2018
   headline: "Alin and late alumnus, Alan, receive the Alberto O. Mendelzon Test-of-Time Award from ACM PODS."
 - date: May 2017
-  headline: "Arun receives a Distinguished PC Member Award from ACM SIGMOD 2017."
+  headline: "Arun receives a Distinguished PC Member Award from ACM SIGMOD."
 - date: March 2017
   headline: "Arun receives a Google Faculty Research Award; <a href='https://research.googleblog.com/2017/02/google-research-awards-2016.html'>link to announcement</a>."
 - date: September 2015
