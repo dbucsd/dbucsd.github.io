@@ -1,8 +1,112 @@
+- year: 2020
+  venue: VLDB
+  title: "Panorama: A Data System for Unbounded Vocabulary Querying over Video"
+  author: Yuhao Zhang and Arun Kumar
+  link: http://www.vldb.org/pvldb/vol13/p477-zhang.pdf
 - year: 2019
-  venue: "22nd International Conference on Database Theory (ICDT), March 26-29"
+  venue: ACM SIGMOD
+  title: "Towards Scalable Hybrid Stores: Constraint-Based Rewriting to the Rescue"
+  author: Rana Alotaibi, Damian Bursztyn, Alin Deutsch, Ioana Manolescu, and Stamatis Zampetakis
+  link: https://dl.acm.org/citation.cfm?doid=3299869.3319895
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Model-based Pricing for Machine Learning in a Data Marketplace"
+  author: Lingjiao Chen, Paraschos Koutris, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_Nimbus_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent"
+  author: Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu
+  link: https://adalabucsd.github.io/papers/2019_TOC_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra"
+  author: Side Li, Lingjiao Chen, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_MorpheusFI_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations"
+  author: Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou
+  link: https://adalabucsd.github.io/papers/2019_Krypton_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD
+  title: "Ariadne: Online Provenance for Big Graph Analytics"
+  author: Vicky Papavasileiou, Ken Yocum, and Alin Deutsch
+  link: https://dl.acm.org/citation.cfm?doid=3299869.3300091
+- year: 2019
+  venue: ACM SIGMOD Workshop on Data Management for End-to-End Machine Learning (DEEM)
+  title: "Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems"
+  author: Supun Nakandala, Yuhao Zhang, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_Cerebro_DEEM.pdf
+- year: 2019
+  venue: ACM SIGMOD Workshop on Data Management for End-to-End Machine Learning (DEEM)
+  title: "The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML"
+  author: Vraj Shah and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_DataPrepZoo_DEEM.pdf
+- year: 2019
+  venue: ACM SIGMOD Demonstration
+  title: "Demonstration of Nimbus: Model-based Pricing for Machine Learning in a Data Marketplace"
+  author: Lingjiao Chen, Hongyi Wang, Leshang Chen, Paraschos Koutris, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_NimbusDemo_SIGMOD.pdf
+- year: 2019
+  venue: ACM SIGMOD Demonstration
+  title: "Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data"
+  author: Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul
+  link: https://adalabucsd.github.io/papers/2019_SpeakQL_SIGMOD.pdf
+- year: 2019
+  venue: VLDB
+  title: "A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics"
+  author: Anthony Thomas and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2019_SLAB_VLDB.pdf
+- year: 2019
+  venue: VLDB Demonstration
+  title: "Demonstration of Krypton: Optimized CNN Inference for Occlusion-based Deep CNN Explanations"
+  author: Allen Ordookhanians, Xin Li, Supun Nakandala, and Arun Kumar
+  link: http://www.vldb.org/pvldb/vol12/p1894-ordookhanians.pdf
+- year: 2019
+  venue: ICDT
   title: "Index-based, High-dimensional, Cosine Threshold Querying with Optimality Guarantees"
   author: Yuliang Li and Jianguo Wang and Benjamin Pullman and Nuno Bandeira and Yannis Papakonstantinou
   link: paperpdfs/2019_1.pdf
+- year: 2019
+  venue: ACM TODS
+  title: "Verification of Hierarchical Artifact Systems"
+  author: Alin Deutsch, Yuliang Li, and Victor Vianu
+  link: https://dl.acm.org/citation.cfm?doid=3339885.3321487
+- year: 2019
+  venue: SysML Demonstration
+  title: "Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations"
+  author: Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou
+  link: https://adalabucsd.github.io/papers/2019_Krypton_SysML.pdf
+- year: 2019
+  venue: "Synthesis Lectures on Data Management, Morgan & Claypool Publishers (Book)"
+  title: "Data Management in Machine Learning Systems"
+  author: Matthias Boehm, Arun Kumar, and Jun Yang
+  link: https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1366
+- year: 2019
+  venue: IEEE ICNSC
+  title: "Hierarchical and Distributed Machine Learning Inference Beyond the Edge"
+  author: Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar and Tajana Rosing
+  link: https://adalabucsd.github.io/papers/2019_ICNSC.pdf
+- year: 2019
+  venue: eScience Conference
+  title: "Predicting Eating Events in Free Living Individuals"
+  author: Jiayi Wang, Jiue-An Yang, Supun Nakandala, Arun Kumar and Marta M. Jankowska
+- year: 2018
+  venue: VLDB
+  title: "In-RDBMS Hardware Acceleration of Advanced Analytics"
+  author: Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, and Hadi Esmaeilzadeh
+  link: https://adalabucsd.github.io/papers/2018_DANA_VLDB.pdf
+- year: 2018
+  venue: VLDB
+  title: "Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?"
+  author: Vraj Shah, Arun Kumar, and Xiaojin Zhu
+  link: https://adalabucsd.github.io/papers/2018_Hamlet_VLDB.pdf
+- year: 2018
+  venue: SysML (Short paper)
+  title: "Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics"
+  author: Supun Nakandala and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2018_Vista_SysML.pdf
 - year: 2018
   venue: N/A (Manuscript)
   title: "Plato: Approximate Analytics over Compressed Time Series with Tight Deterministic Error Guarantees"

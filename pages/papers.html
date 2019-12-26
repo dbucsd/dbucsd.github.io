@@ -9,9 +9,9 @@ permalink: /papers.html
 
    <h1>Publications</h1>
     {% for article in site.data.papers %}
-      <p>{{ article.year }} ; {{ article.venue }} <br> {{ article.title }} <br> {{ article.author }}
-      {% if article.link <> '' %}                                                         
-         <br> {{ article.link }}
+      <p> {{ article.title }} <br> {{ article.author }} <br> {{ article.year }} ; {{ article.venue }}
+      {% if article.link <> '' %}
+         <br> <a href="{{ article.link }}">Link to paper</a>
       {% endif %}
     </p> <br>
     {% endfor %}
