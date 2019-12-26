@@ -19,7 +19,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/faculty/{{ member.photo }}" class="img-responsive" width="25%"
    style="float: left; padding-right: 10px; margin-bottom:50px" />
-  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> (<a href="{{member.scholar}}">Google Scholar</a>)</h5>
+  <h5 style="margin-bottom:-1px"><b><a href="{{member.web}}">{{ member.name }}</a></b> [<a href="{{member.scholar}}">Google Scholar</a>]</h5>
   <p align="justify">{{ member.info }}</p>
 </div>
 
@@ -50,7 +50,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/affiliated_faculty/{{ member.photo }}" class="img-responsive" width="25%"
    style="float: left; padding-right: 10px; margin-bottom:50px" />
-  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> (<a href="{{member.scholar}}">Google Scholar</a>)</h5>
+  <h5 style="margin-bottom:-1px"><b><a href="{{member.web}}">{{ member.name }}</a></b> [<a href="{{member.scholar}}">Google Scholar</a>]</h5>
   <p align="justify">{{ member.info }}</p>
 </div>
 
@@ -84,7 +84,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/students/{{ member.photo }}" class="img-responsive" width="25%"
    style="float: left; padding-right: 10px; margin-bottom:50px" />
-  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a></h5>
+  <h5 style="margin-bottom:-1px"><b><a href="{{member.web}}">{{ member.name }}</a></b></h5>
   <p align="justify">{{ member.info }}</p>
 </div>
 
@@ -116,7 +116,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/sdsc/{{ member.photo }}" class="img-responsive" width="25%"
    style="float: left; padding-right: 10px; margin-bottom:50px" />
-  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a></h5>
+  <h5 style="margin-bottom:-1px"><b><a href="{{member.web}}">{{ member.name }}</a></b></h5>
   <p align="justify">{{ member.info }}</p>
 </div>
 
@@ -151,7 +151,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
   {% else %}
       <h5>{{ member.name }}</h5>
   {% endif %}
-  {{ member.type }} ; {{ member.year }} ; Advised by: {{ member.advisor }}
+  {{ member.type }}; {{ member.year }}; Advised by {{ member.advisor }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
