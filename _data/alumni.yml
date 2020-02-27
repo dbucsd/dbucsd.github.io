@@ -33,6 +33,10 @@
   type: PhD
   web: http://cseweb.ucsd.edu/~ikatsis/
   advisor: Yannis Papakonstantinou
+- name: Elio Damaggio
+  year: 2012
+  type: PhD
+  advisor: Victor Vianu and Alin Deutsch
 - name: Alan Nash
   year: 2011
   type: PhD
@@ -42,3 +46,11 @@
   type: PhD
   web: https://www.linkedin.com/pub/andrey-balmin/5/9a3/293
   advisor: Alin Deutsch
+- name: Lying Sui
+  year: 2006
+  type: PhD
+  advisor: Victor Vianu
+- name: Karl Denninghoff
+  year: 1995
+  type: PhD
+  advisor: Victor Vianu
