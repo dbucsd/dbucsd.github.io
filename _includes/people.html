@@ -20,13 +20,13 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
   <img src="{{ site.url }}{{ site.baseurl }}/images/faculty/{{ member.photo }}" class="img-responsive" width="25%"
    style="float: left; padding-right: 10px; margin-bottom:50px" />
   <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a> [
-    &nbsp
-    {% if member.scholar %}
+    {% if member.scholar and member.dblp %}
+      <a href="{{member.dblp}}">DBLP</a>|<a href="{{member.scholar}}">Google Scholar</a>
+    {% elsif member.scholar %}
       <a href="{{member.scholar}}">Google Scholar</a>
-    {% endif %}&nbsp
-    {% if member.dblp %}
+    {% elsif member.dblp %}
       <a href="{{member.dblp}}">DBLP</a>
-    {% endif %}&nbsp
+    {% endif %}
     ]</h5>
   <p align="justify">{{ member.info }}</p>
 </div>
