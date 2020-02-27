@@ -33,6 +33,10 @@
   type: PhD
   web: http://cseweb.ucsd.edu/~ikatsis/
   advisor: Yannis Papakonstantinou
+- name: Wojtek Kazana
+  year: 2014
+  type: PostDoc
+  advisor: Victor Vianu and Alin Deutsch
 - name: Elio Damaggio
   year: 2012
   type: PhD
@@ -50,7 +54,19 @@
   year: 2006
   type: PhD
   advisor: Victor Vianu
+- name: Frank Neven
+  year: 1999
+  type: PostDoc
+  advisor: Victor Vianu  
 - name: Karl Denninghoff
   year: 1995
   type: PhD
+  advisor: Victor Vianu
+- name: St\'ephane Grumbach
+  year: 1990-91
+  type: PostDoc
+  advisor: Victor Vianu
+- name: Gottfried Vossen
+  year: 1987
+  type: PostDoc
   advisor: Victor Vianu
