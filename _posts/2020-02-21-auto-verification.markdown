@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Automatic Verification of Database-powered Workflows
-date:   2020-02-21 14:00:00 -0700
+date:   2020-02-21
 author: Allessandro Gianola (Visitng PhD student from Free University of Bolzano)
 ---
 
