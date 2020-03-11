@@ -161,6 +161,7 @@ Jump to <a href="/#faculty">Faculty</a>, <a href="#affiliated-faculty">Affiliate
   {% endif %}
   {% if member.type %}
       {{ member.type }}; {{ member.year }}; Advised by {{ member.advisor }}
+  {% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
