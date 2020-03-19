@@ -1,4 +1,14 @@
 - year: 2020
+  venue: ACM SIGMOD
+  title: "Vista: Declarative Feature Transfer from Deep CNNs at Scale"
+  author: Supun Nakandala and Arun Kumar
+  link: https://adalabucsd.github.io/vista.html
+- year: 2020
+  venue: ACM SIGMOD
+  title: "SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data"
+  author: Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul
+  link: https://adalabucsd.github.io/speakql.html
+- year: 2020
   venue: VLDB
   title: "Understanding and Benchmarking the Impact of GDPR on Database Systems"
   author: Supreeth Shastri, Vinay Banakar, Melissa Wasserman, Arun Kumar, and Vijay Chidambaram
