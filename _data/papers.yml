@@ -12,7 +12,7 @@
   venue: VLDB
   title: "Understanding and Benchmarking the Impact of GDPR on Database Systems"
   author: Supreeth Shastri, Vinay Banakar, Melissa Wasserman, Arun Kumar, and Vijay Chidambaram
-  link: https://04e19274-9945-4166-b1be-95d42dc718a3.filesusr.com/ugd/13b079_1e10e6be8e7045ee9b26afdcdae6f60b.pdf
+  link: http://www.vldb.org/pvldb/vol13/p1064-shastri.pdf 
 - year: 2020
   venue: VLDB
   title: "Panorama: A Data System for Unbounded Vocabulary Querying over Video"
