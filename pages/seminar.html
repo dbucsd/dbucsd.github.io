@@ -26,9 +26,9 @@ permalink: /seminar.html
         <h5>{{post.author}} • <span class="post-meta">{{ post.date | date: date_format }}</span></h5>
 
         {{ post.excerpt | strip_html | truncatewords:25 }}
-        {% if post.excerpt != post.content %}
-            <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-        {% endif %}
+<!--         {% if post.excerpt != post.content %} -->
+        <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+<!--         {% endif %} -->
       </li>
       {%- endfor -%}
     </ul>
