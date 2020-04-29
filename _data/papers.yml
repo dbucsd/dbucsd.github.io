@@ -1,4 +1,9 @@
 - year: 2020
+  venue: ACM TODS
+  title: "Incremental and Approximate Computations for Accelerating Deep CNN Inference"
+  author: Supun Nakandala, Kabir Nagrecha, Arun Kumar, and Yannis Papakonstantinou
+  link: https://adalabucsd.github.io/krypton.html
+- year: 2020
   venue: ACM SIGMOD
   title: "Vista: Declarative Feature Transfer from Deep CNNs at Scale"
   author: Supun Nakandala and Arun Kumar
