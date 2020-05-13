@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cloudy with high chance of DBMS: A 10-year prediction for Enterprise-Grade ML
+title:  'Cloudy with high chance of DBMS: A 10-year prediction for Enterprise-Grade ML'
 date:   2020-05-06
 author: Carlo Curino and Kostas Karanasos (Microsoft Jim Gray Systems Lab)
 ---
