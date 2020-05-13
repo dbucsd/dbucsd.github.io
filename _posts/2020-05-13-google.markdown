@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  From Data to Models and Back: Experiences from Google's Production ML Pipelines
+title:  "From Data to Models and Back: Experiences from Google's Production ML Pipelines"
 date:   2020-05-13
 author: Alkis Polyzotis (Google Research)
 ---
