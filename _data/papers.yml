@@ -33,6 +33,11 @@
   title: "SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data"
   author: Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul
   link: https://adalabucsd.github.io/2020_SpeakQL_SIGMOD.pdf
+- year: 2020
+  venue: ACM SIGMOD
+  title: "Aggregation Support for Modern Graph Analytics in TigerGraph"
+  author: Alin Deutsch, Yu Xu, Mingxi Wu, and Victor E. Lee
+  link: https://dl.acm.org/doi/pdf/10.1145/3318464.3386144
 - year: 2019
   venue: ACM SIGMOD
   title: "Towards Scalable Hybrid Stores: Constraint-Based Rewriting to the Rescue"
