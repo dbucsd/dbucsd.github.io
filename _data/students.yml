@@ -22,8 +22,10 @@
   info: "Vraj's research interest lies in accelerating the advanced data analytics life cycle by simplifying data sourcing for Machine Learning (ML) and making it easier and cheaper to deploy ML powered data analytics applications, improving both efficiency and usability of ML for data science."
 - name: Marysia Tran 
   photo: marysia.jpg
-  web:
   info: "Marysia's research interests lie in logic and database theory."
 - name: Yuhao Zhang
   photo: yuhao.jpg
   web: http://yhzhang.info/
+- name: Xiuwen Zheng
+  photo: xiuwen.jpg
+  info: "Xiuwen's research interests lie in heterogeneous data management, polystore system, query optimization and AI in DB."
