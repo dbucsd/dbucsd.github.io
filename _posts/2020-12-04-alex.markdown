@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Alex Ratner"
+date:   2020-12-04
+author: Alex Ratner (UW and Snorkel AI)
+---
+
+Abstract TBD.
