@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Title TBD"
-date:   2020-10-16
-author: Prof. Frank Wuerthwein (UCSD Physics and HDSI)
----
-
-Abstract TBD.
