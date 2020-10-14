@@ -11,7 +11,7 @@
   level: graduate
 - code: CSE 234 (formerly CSE 291)
   name: Data Systems for Machine Learning
-  link: http://cseweb.ucsd.edu/classes/wi19/cse291-f/
+  link: http://cseweb.ucsd.edu/classes/fa20/cse291-d/
   level: graduate
 - code: CSE 132A
   name: Database System Principles
@@ -23,7 +23,7 @@
   level: undergraduate
 - code: CSE 132C (formerly CSE 190)
   name: Database System Implementation
-  link: http://cseweb.ucsd.edu/classes/sp19/cse190-d/
+  link: http://cseweb.ucsd.edu/classes/sp20/cse132C-a/
   level: undergraduate
 - code: DSC 102
   name: Systems for Scalable Analytics
