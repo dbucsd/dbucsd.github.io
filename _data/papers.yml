@@ -1,3 +1,8 @@
+- year: 2021
+  venue: CIDR
+  title: "Cerebro: A Layered Data Platform for Scalable Deep Learning"
+  author: Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha
+  link: https://adalabucsd.github.io/cerebro.html
 - year: 2020
   venue: VLDB
   title: "Cerebro: A Data System for Optimized Deep Learning Model Selection"
