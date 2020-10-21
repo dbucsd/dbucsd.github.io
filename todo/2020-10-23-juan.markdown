@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Title TBD"
-date:   2020-10-23
-author: Dr. Juan Sequeda (Data.World)
----
-
-Abstract TBD.
