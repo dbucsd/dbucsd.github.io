@@ -18,3 +18,6 @@ Juan is the recipient of the NSF Graduate Research Fellowship, received 2nd Plac
 Wearing his scientific hat, Juan's goal is to reliably create knowledge from inscrutable data. His research interests are at the intersection of Logic and Data for (ontology-based) data integration and semantic/graph data management, and what is now called Knowledge Graphs.
 
 Wearing his business hat, Juan does business strategy, technical sales and works with customers to understand their problems to translate back to R&D.
+
+Public video of talk:
+https://www.youtube.com/watch?v=0hL8vIaVe9U
