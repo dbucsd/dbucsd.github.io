@@ -10,3 +10,5 @@ Data, models, and computing are the three pillars that enable machine learning t
 Speaker bio:
 
 Tianqi Chen is currently an Assistant Professor at the Machine Learning Department and Computer Science Department of Carnegie Mellon University. He received his PhD from the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Carlos Guestrin on the intersection of machine learning and systems. He has created three major learning systems that are widely adopted: XGBoost, TVM, and MXNet(co-creator).
+
+Public video of talk: https://www.youtube.com/watch?v=HpOcREEQ-9Q
