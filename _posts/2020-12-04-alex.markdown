@@ -10,3 +10,5 @@ One of the key bottlenecks in building machine learning systems is creating and 
 Speaker bio:
 
 Alex Ratner is the co-founder and CEO of Snorkel AI, Inc., which supports the open source Snorkel library and develops Snorkel Flow, an end-to-end system for building machine learning applications, and an Assistant Professor of Computer Science at the University of Washington.  Prior to Snorkel AI and UW, he completed his PhD in CS advised by Christopher Ré at Stanford, where his research focused on applying data management and statistical learning techniques to emerging machine learning workflows, such as creating and managing training data, and applying this to real-world problems in medicine, knowledge base construction, and more.
+
+Public video of talk: https://www.youtube.com/watch?v=fGBGSoW-g-E
