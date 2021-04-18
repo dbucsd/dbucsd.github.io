@@ -1,4 +1,14 @@
 - year: 2021
+  venue: SIGMOD
+  title: "Towards Benchmarking Feature Type Inference for AutoML Platforms"
+  author: Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2021_SortingHat_SIGMOD.pdf
+- year: 2021
+  venue: VLDB Industrial Track
+  title: "Towards A Polyglot Framework for Factorized ML"
+  author: David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar
+  link: https://adalabucsd.github.io/morpheus.html
+- year: 2021
   venue: CIDR
   title: "Cerebro: A Layered Data Platform for Scalable Deep Learning"
   author: Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha
