@@ -1,4 +1,9 @@
 - year: 2021
+  venue: Technical Report
+  title: "HADAD: A Lightweight Approach for Optimizing Hybrid Complex Analytics Queries (Extended Version)"
+  author: Rana Alotaibi, Bogdan Cautis, Alin Deutsch, and Ioana Manolescu
+  link: https://arxiv.org/pdf/2103.12317.pdf
+- year: 2021
   venue: SIGMOD
   title: "Towards Benchmarking Feature Type Inference for AutoML Platforms"
   author: Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar
