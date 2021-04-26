@@ -25,6 +25,11 @@
   link: https://adalabucsd.github.io/cerebro.html
 - year: 2020
   venue: VLDB
+  title: "ESTOCADA: Towards Scalable Polystore Systems"
+  author: Rana Alotaibi, Bogdan Cautis, Alin Deutsch, Moustafa Latrache†, Ioana Manolescu and Yifei Yang
+  link: http://www.vldb.org/pvldb/vol13/p2949-alotaibi.pdf  
+- year: 2020
+  venue: VLDB
   title: "Cerebro: A Data System for Optimized Deep Learning Model Selection"
   author: Supun Nakandala, Yuhao Zhang, and Arun Kumar
   link: http://www.vldb.org/pvldb/vol13/p2159-nakandala.pdf
