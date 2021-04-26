@@ -1,7 +1,7 @@
 - name: Rana Alotaibi
   photo: blank.png
   web: http://cseweb.ucsd.edu/~ralotaib/
-  info: "Rana's research interests lie in hybrid stores databases, large scale data integration and scalable self tuning database systems."
+  info: "Rana's research interests lie broadly in the intersection of database theory and big data management systems. Her current research focuses on cross-data model query optimization in heterogeneous settings, languages/models for integrating disparate data and scalable self-tuning big data management systems."
 - name: Side Li
   photo: side.jpg
   web: https://liside.github.io/
