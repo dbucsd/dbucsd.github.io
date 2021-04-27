@@ -1,5 +1,10 @@
 - year: 2021
   venue: SIGMOD
+  title: "Vertex-centric Parallel Computation of SQL Queries"
+  author: Ainur Smagulova, Alin Deutsch
+  link: http://cseweb.ucsd.edu/~asmagulo/rdm491-smagulovaA-CC-BY.pdf
+- year: 2021
+  venue: SIGMOD
   title: "HADAD: A Lightweight Approach for Optimizing Hybrid Complex Analytics Queries"
   author: Rana Alotaibi, Bogdan Cautis, Alin Deutsch, and Ioana Manolescu
   link: paperpdfs/rdm481-V1.pdf
