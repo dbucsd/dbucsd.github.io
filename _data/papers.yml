@@ -78,6 +78,11 @@
   title: "Aggregation Support for Modern Graph Analytics in TigerGraph"
   author: Alin Deutsch, Yu Xu, Mingxi Wu, and Victor E. Lee
   link: https://dl.acm.org/doi/pdf/10.1145/3318464.3386144
+- year: 2020
+  venue: PODS
+  title: "Projection Views of Register Automata"
+  author: Luc Segoufin, Victor Vianu
+  link: https://dl.acm.org/doi/10.1145/3375395.3387651
 - year: 2019
   venue: ACM SIGMOD
   title: "Towards Scalable Hybrid Stores: Constraint-Based Rewriting to the Rescue"
