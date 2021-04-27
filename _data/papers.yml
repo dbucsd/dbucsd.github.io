@@ -2,6 +2,7 @@
   venue: PODS
   title: "Datalog Unchained"
   author: Victor Vianu
+  link: paperpdfs/pods101gm-vianuA-CC-BY.pdf
 - year: 2021
   venue: SIGMOD
   title: "Vertex-centric Parallel Computation of SQL Queries"
