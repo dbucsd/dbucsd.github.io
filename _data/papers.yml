@@ -1,4 +1,8 @@
 - year: 2021
+  venue: PODS
+  title: "Datalog Unchained"
+  author: Victor Vianu
+- year: 2021
   venue: SIGMOD
   title: "Vertex-centric Parallel Computation of SQL Queries"
   author: Ainur Smagulova, Alin Deutsch
