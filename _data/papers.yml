@@ -322,7 +322,7 @@
   author: Kian Win Ong and Yannis Papakonstantinou and Gerald Sangudi
   link: paperpdfs/2015_5.pdf
 - year: 2015
-  venue: "Proc. VLDB Endow."
+  venue: "Proc. VLDB Endow."https://doi.org/10.1007/s00224-015-9617-5
   title: "Demonstration of Santoku: Optimizing Machine Learning over Normalized Data"
   author:  Arun Kumar and Mona Jalal and Boqun Yan and Jeffrey Naughton and Jignesh M. Patel
 - year: 2015
@@ -333,13 +333,14 @@
   venue: "Theory Comput. Syst."
   title: "Highly Expressive Query Languages for Unordered Data Trees"
   author: Serge Abiteboul and Pierre Bourhis and Victor Vianu
+  link: https://doi.org/10.1007/s00224-015-9617-5
 - year: 2014
   venue: N/A (Manuscript)
   title: "The SQL++ Unifying Semi-structured Query Language, and an Expressiveness Benchmark of SQL-on-Hadoop, NoSQL and NewSQL Databases"
   author: Kian Win Ong and Yannis Papakonstantinou and Romain Vernoux
   link: paperpdfs/2014_1.pdf
 - year: 2014
-  venue: N/A (Manuscript)
+  venue: "SIGMOD Record."
   title: "Automatic Verification of Database-Centric Systems"
   author: Alin Deutsch and Richard Hull and Victor Vianu
   link: paperpdfs/2014_2.pdf
@@ -354,7 +355,7 @@
   author: HV. Jagadish and Johannes Gehrke and Alexandros Labrinidis and Yannis Papakonstantinou and Jignesh M. Patel and Raghu Ramakrishnan and Cyrus Shahabi
   link: paperpdfs/2014_4.pdf
 - year: 2014
-  venue: N/A (Manuscript)
+  venue: "ICDT"
   title: "Deduction with Contradictions in Datalog"
   author: Serge Abiteboul and Daniel Deutch and Victor Vianu
   link: paperpdfs/2014_5.pdf
