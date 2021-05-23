@@ -124,12 +124,12 @@
   author: Vicky Papavasileiou, Ken Yocum, and Alin Deutsch
   link: https://dl.acm.org/citation.cfm?doid=3299869.3300091
 - year: 2019
-  venue: ACM SIGMOD Workshop on Data Management for End-to-End Machine Learning (DEEM)
+  venue: ACM SIGMOD DEEM Workshop
   title: "Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems"
   author: Supun Nakandala, Yuhao Zhang, and Arun Kumar
   link: https://adalabucsd.github.io/papers/2019_Cerebro_DEEM.pdf
 - year: 2019
-  venue: ACM SIGMOD Workshop on Data Management for End-to-End Machine Learning (DEEM)
+  venue: ACM SIGMOD DEEM Workshop
   title: "The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML"
   author: Vraj Shah and Arun Kumar
   link: https://adalabucsd.github.io/papers/2019_DataPrepZoo_DEEM.pdf
@@ -203,6 +203,11 @@
   author: Etienne Boursier and Jaqueline J. Brito and Chunbin Lin and Yannis Papakonstantinou
   link: paperpdfs/2018_1.pdf
 - year: 2017
+  venue: VLDB
+  title: "Towards Linear Algebra over Normalized Data"
+  author: Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel
+  link: https://adalabucsd.github.io/papers/2017_Morpheus_VLDB.pdf
+- year: 2017
   venue: N/A (Manuscript)
   title: "MILC: Inverted List Compression in Memory"
   author: Jianguo Wang and Chunbin Lin and Ruining He and Moojin Chae and Yannis Papakonstantinou and Steven Swanson
@@ -230,13 +235,25 @@
   author: Konstantinos Zarifis and Yannis Katsis and Yannis Papakonstantinou 
   link: paperpdfs/2017_3.pdf
 - year: 2017
-  venue: "Proceedings of the 2017 ACM SIGMOD International Conference on Management of Data"
-  title: "Data Management in Machine Learning: Challenges, Techniques, and Systems"
-  author: Arun Kumar and Matthias Boehm and Jun Yang
+  venue: ACM SIGMOD DEEM Workshop
+  title: "Model-based Pricing: Do Not Pay for More than What You Learn!"
+  author: Lingjiao Chen, Paraschos Koutris, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2017_Nimbus_DEEM.pdf
 - year: 2017
-  venue: "Proceedings of the 2017 ACM SIGMOD International Conference on Management of Data"
-  title: "Differentially Private Stochastic Gradient Descent for in-RDBMS Analytics"
-  author: Xi Wu and Fengan Li and Arun Kumar and Kamalika Chaudhuri and Somesh Jha and Jeffrey Naughton
+  venue: ACM SIGMOD HILDA Workshop
+  title: "SpeakQL: Towards Speech-driven Multi-modal Querying"
+  author: Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul
+  link: https://adalabucsd.github.io/papers/2017_SpeakQL_HILDA.pdf
+- year: 2017
+  venue: ACM SIGMOD
+  title: "Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics"
+  author: Xi Wu, Fengan Li, Arun Kumar, Kamalika Chaudhuri, Somesh Jha, and Jeffrey Naughton
+  link: https://adalabucsd.github.io/papers/2017_BismarckBoltOnDP_SIGMOD.pdf
+- year: 2017
+  venue: CIDR Abstract
+  title: "Cerebro: A System to Manage Deep Learning for Relational Data Analytics"
+  author: Arun Kumar
+  link: https://adalabucsd.github.io/papers/2017_Cerebro_CIDR.pdf
 - year: 2017
   venue: "MEMSYS"
   title: "Improving SSD Lifetime with Byte-Addressable Metadata"
@@ -260,9 +277,10 @@
   author: Chunbin Lin and Benjamin Mandel and Yannis Papakonstantinou and Matthias Springer
   link: paperpdfs/2016_1.pdf
 - year: 2016
-  venue: N/A (Manuscript)
+  venue: PhD Thesis
   title: "Learning Over Joins"
   author: Arun Kumar
+  link: https://adalabucsd.github.io/papers/Dissertation_ArunKumar.pdf
 - year: 2016
   venue: "PVLDB"
   title: "HippogriffDB: Balancing I/O and GPU Bandwidth in Big Data Analytics"
@@ -279,13 +297,15 @@
   author: Konstantinos Zarifis 
   link: paperpdfs/2016_4.pdf
 - year: 2016
-  venue: "Proceedings of the 2016 International Conference on Management of Data"
+  venue: ACM SIGMOD
   title: "To Join or Not to Join?: Thinking Twice About Joins Before Feature Selection"
-  author:  Arun Kumar and Jeffrey Naughton and Jignesh M. Patel and Xiaojin Zhu
+  author:  Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu
+  link: https://adalabucsd.github.io/papers/2016_Hamlet_SIGMOD.pdf
 - year: 2016
-  venue: "SIGMOD Rec."
+  venue: ACM SIGMOD Record
   title: "Model Selection Management Systems: The Next Frontier of Advanced Analytics"
-  author:  Arun Kumar and Robert McCann and Jeffrey Naughton and Jignesh M. Patel
+  author:  Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel
+  link: https://adalabucsd.github.io/papers/2015_MSMS_SIGMODRecord.pdf
 - year: 2016
   venue: "PODS 2016, San Francisco, CA, USA, June 26 - July 01"
   title: "Verification of Hierarchical Artifact Systems"
@@ -317,7 +337,7 @@
   author: Yannis Papakonstantinou 
   link: paperpdfs/2015_2.pdf
 - year: 2015
-  venue: "SIGMOD"
+  venue: ACM SIGMOD
   title: "Utilizing IDs to Accelerate Incremental View Maintenance"
   author: Yannis Katsis and Kian Win Ong and Yannis Papakonstantinou and Kevin Keliang Zhao
   link: paperpdfs/2015_3.pdf
@@ -332,13 +352,15 @@
   author: Kian Win Ong and Yannis Papakonstantinou and Gerald Sangudi
   link: paperpdfs/2015_5.pdf
 - year: 2015
-  venue: "Proc. VLDB Endow."https://doi.org/10.1007/s00224-015-9617-5
+  venue: VLDB Demonstration
   title: "Demonstration of Santoku: Optimizing Machine Learning over Normalized Data"
-  author:  Arun Kumar and Mona Jalal and Boqun Yan and Jeffrey Naughton and Jignesh M. Patel
+  author:  Arun Kumar, Mona Jalal, Boqun Yan, Jeffrey Naughton, and Jignesh M. Patel
+  link: https://adalabucsd.github.io/papers/2015_Santoku_VLDB.pdf
 - year: 2015
-  venue: "Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data"
+  venue: ACM SIGMOD
   title: "Learning Generalized Linear Models Over Normalized Data"
-  author:  Arun Kumar and Jeffrey Naughton and Jignesh M. Patel
+  author:  Arun Kumar, Jeffrey Naughton, and Jignesh M. Patel
+  link: https://adalabucsd.github.io/papers/2015_Orion_SIGMOD.pdf
 - year: 2015
   venue: "Theory Comput. Syst."
   title: "Highly Expressive Query Languages for Unordered Data Trees"
@@ -370,9 +392,10 @@
   author: Serge Abiteboul and Daniel Deutch and Victor Vianu
   link: paperpdfs/2014_5.pdf
 - year: 2014
-  venue: "Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data"
+  venue: ACM SIGMOD
   title: "Materialization Optimizations for Feature Selection Workloads"
-  author:  Ce Zhang and Arun Kumar and Christopher Re
+  author:  Ce Zhang, Arun Kumar, and Christopher Re
+  link: https://adalabucsd.github.io/papers/2014_Columbus_SIGMOD.pdf
 - year: 2013
   venue: N/A (Manuscript)
   title: "Holistic Data Access Optimization for Analytics Reports"
@@ -384,9 +407,10 @@
   author: Yupeng Fu and Kian Win Ong and Yannis Papakonstantinou
   link: paperpdfs/2013_2.pdf
 - year: 2013
-  venue: "Proc. VLDB Endow."
+  venue: VLDB Demonstration
   title: "Feature Selection in Enterprise Analytics: A Demonstration Using an R-based Data Analytics System"
-  author:  Pradap Konda and Arun Kumar and Christopher Re and Vaishnavi Sashikanth
+  author:  Pradap Konda, Arun Kumar, Christopher Re, and Vaishnavi Sashikanth
+  link: https://adalabucsd.github.io/papers/2013_Columbus_VLDB.pdf
 - year: 2013
   venue: "Healthcom"
   title: "DELPHI: Data E-platform for personalized population health"
@@ -397,25 +421,29 @@
   author: Serge Abiteboul and Victor Vianu
   link: paperpdfs/2013_3.pdf
 - year: 2013
-  venue: N/A (Manuscript)
+  venue: NIPS BigLearn Workshop
   title: "Distributed and Scalable PCA in the Cloud"
-  author:  Arun Kumar and Nikos Karampatziakis and Paul Mineiro and Markus Weimer and Vijay Narayanan
+  author:  Arun Kumar, Nikos Karampatziakis, Paul Mineiro, Markus Weimer, and Vijay Narayanan
+  link: https://adalabucsd.github.io/papers/2013_PCAonREEF_BigLearn.pdf
 - year: 2013
-  venue: "Queue"
+  venue: ACM Queue
   title: "Hazy: Making It Easier to Build and Maintain Big-data Analytics"
-  author:  Arun Kumar and Feng Niu and Christopher Re
+  author:  Arun Kumar, Feng Niu, and Christopher Re
+  link: http://queue.acm.org/detail.cfm?id=2431055
 - year: 2013
-  venue: "Proceedings of the 2013 Conference on Innovative Data Systems Research"
+  venue: CIDR
   title: "Brainwash: A Data System for Feature Engineering"
-  author:  Michael Anderson and Dolan Antenucci and Victor Bittorf and Matthew Burgess and Michael Cafarella and Arun Kumar and Feng Niu and Yongjoo Park and Christopher Ré and Ce Zhang
+  author:  Michael Anderson, Dolan Antenucci, Victor Bittorf, Matthew Burgess, Michael Cafarella, Arun Kumar, Feng Niu, Yongjoo Park, Christopher Re, and Ce Zhang
+  link: https://adalabucsd.github.io/papers/2013_Brainwash_CIDR.pdf
 - year: 2013
   venue: "Wirel. Netw."
   title: "On Reducing Delay in Mobile Data Collection Based Wireless Sensor Networks"
   author:  Arun Kumar and Krishna M. Sivalingam and Adithya Kumar
 - year: 2012
-  venue: "Proc. VLDB Endow."
+  venue: VLDB
   title: "The MADlib Analytics Library: Or MAD Skills, the SQL"
-  author:  Joseph M. Hellerstein and Christopher Re and Florian Schoppmann and Daisy Zhe Wang and Eugene Fratkin and Aleksander Gorajek and Kee Siong Ng and Caleb Welton and Xixuan Feng and Kun Li and Arun Kumar
+  author:  Joseph M. Hellerstein, Christopher Re, Florian Schoppmann, Daisy Zhe Wang, Eugene Fratkin, Aleksander Gorajek, Kee Siong Ng, Caleb Welton, Xixuan Feng, Kun Li and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2012_MADlib_VLDB.pdf
 - year: 2012
   venue: "TODS"
   title: "Artifact Systems with Data Dependencies and Arithmetic"
@@ -442,9 +470,10 @@
   author: Alin Deutsch and Richard Hull and Avinash Vyas and Kevin Keliang Zhao
   link: paperpdfs/2012_5.pdf
 - year: 2012
-  venue: "Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data"
+  venue: ACM SIGMOD
   title: "Towards a Unified Architecture for in-RDBMS Analytics"
-  author:  Xixuan Feng and Arun Kumar and Benjamin Recht and Christopher Re
+  author:  Xixuan Feng, Arun Kumar, Benjamin Recht, and Christopher Re
+  link: https://adalabucsd.github.io/papers/2012_Bismarck_SIGMOD.pdf
 - year: 2011
   venue: "VLDB"
   title: "Update Rewriting and Integrity Constraint Maintenance in a Schema Evolution Support System"
@@ -506,9 +535,10 @@
   author: Bogdan Cautis and Alin Deutsch and Nicola Onose
   link: paperpdfs/2011_12.pdf
 - year: 2011
-  venue: "Proc. VLDB Endow."
+  venue: VLDB
   title: "Probabilistic Management of OCR Data Using an RDBMS"
   author:  Arun Kumar and Christopher Re
+  link: https://adalabucsd.github.io/papers/2012_Staccato_VLDB.pdf
 - year: 2010
   venue: "IEEE Transactions on Knowledge and Data Engineering"
   title: "Using Proximity Search to Estimate Authority Flow"
