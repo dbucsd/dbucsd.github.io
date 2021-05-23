@@ -14,20 +14,30 @@
   author: Rana Alotaibi, Bogdan Cautis, Alin Deutsch, and Ioana Manolescu
   link: paperpdfs/rdm481-V1.pdf
 - year: 2021
-  venue: Technical Report
-  title: "HADAD: A Lightweight Approach for Optimizing Hybrid Complex Analytics Queries (Extended Version)"
-  author: Rana Alotaibi, Bogdan Cautis, Alin Deutsch, and Ioana Manolescu
-  link: https://arxiv.org/pdf/2103.12317.pdf
-- year: 2021
   venue: SIGMOD
   title: "Towards Benchmarking Feature Type Inference for AutoML Platforms"
   author: Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar
   link: https://adalabucsd.github.io/papers/2021_SortingHat_SIGMOD.pdf
 - year: 2021
+  venue: VLDB
+  title: "Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches"
+  author: Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar
+  link: https://adalabucsd.github.io/cerebro.html
+- year: 2021
+  venue: VLDB Demonstration
+  title: "Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration"
+  author: Liangde Li, Supun Nakandala, and Arun Kumar
+  link: https://adalabucsd.github.io/cerebro.html
+- year: 2021
   venue: VLDB Industrial Track
   title: "Towards A Polyglot Framework for Factorized ML"
   author: David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar
   link: https://adalabucsd.github.io/morpheus.html
+- year: 2021
+  venue: Technical Report
+  title: "HADAD: A Lightweight Approach for Optimizing Hybrid Complex Analytics Queries (Extended Version)"
+  author: Rana Alotaibi, Bogdan Cautis, Alin Deutsch, and Ioana Manolescu
+  link: https://arxiv.org/pdf/2103.12317.pdf
 - year: 2021
   venue: CIDR
   title: "Cerebro: A Layered Data Platform for Scalable Deep Learning"
