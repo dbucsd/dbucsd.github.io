@@ -1,20 +1,20 @@
 - year: 2021
-  venue: PODS
+  venue: ACM PODS
   title: "Datalog Unchained"
   author: Victor Vianu
   link: paperpdfs/pods101gm-vianuA-CC-BY.pdf
 - year: 2021
-  venue: SIGMOD
+  venue: ACM SIGMOD
   title: "Vertex-centric Parallel Computation of SQL Queries"
-  author: Ainur Smagulova, Alin Deutsch
+  author: Ainur Smagulova and Alin Deutsch
   link: http://cseweb.ucsd.edu/~asmagulo/rdm491-smagulovaA-CC-BY.pdf
 - year: 2021
-  venue: SIGMOD
+  venue: ACM SIGMOD
   title: "HADAD: A Lightweight Approach for Optimizing Hybrid Complex Analytics Queries"
   author: Rana Alotaibi, Bogdan Cautis, Alin Deutsch, and Ioana Manolescu
   link: paperpdfs/rdm481-V1.pdf
 - year: 2021
-  venue: SIGMOD
+  venue: ACM SIGMOD
   title: "Towards Benchmarking Feature Type Inference for AutoML Platforms"
   author: Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar
   link: https://adalabucsd.github.io/papers/2021_SortingHat_SIGMOD.pdf
