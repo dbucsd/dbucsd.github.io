@@ -19,6 +19,11 @@
   author: Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar
   link: https://adalabucsd.github.io/papers/2021_SortingHat_SIGMOD.pdf
 - year: 2021
+  venue: ACM SIGMOD Panel
+  title: "Automation of Data Prep, ML, and Data Science: New Cure or Snake Oil?"
+  author: Arun Kumar
+  link: https://adalabucsd.github.io/papers/2021_Panel_SIGMOD.pdf
+- year: 2021
   venue: VLDB
   title: "Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches"
   author: Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar
