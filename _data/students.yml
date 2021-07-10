@@ -2,10 +2,6 @@
   photo: blank.png
   web: http://cseweb.ucsd.edu/~ralotaib/
   info: "Rana's research interests lie broadly in the intersection of database theory and big data management systems. Her current research focuses on cross-data model query optimization in heterogeneous settings, languages/models for integrating disparate data and scalable self-tuning big data management systems."
-- name: Side Li
-  photo: side.jpg
-  web: https://liside.github.io/
-  info: "Side's research interests lie in systems for machine learning. He also loves unsweetened boba milk tea."
 - name: Tara Mirmira
   photo: tara.png
   web: https://www.linkedin.com/in/tara-mirmira/
@@ -14,14 +10,14 @@
   photo: supun.jpg
   web: https://scnakandala.github.io/
   info: "Supun's research interest lies broadly in the intersection of Machine Learning and Systems, an emerging area which is also known as Machine Learning Systems. His current work involves implementing efficient, scalable, and reliable algorithms, systems, and abstractions for Deep Learning powered Machine Learning workloads."
-- name: Ainur Smagulova
-  photo: ainur.jpg
-  web: http://cseweb.ucsd.edu/~asmagulo/
-  info: "Ainur's research interests lie at the intersection of the theory and applications of databases and big data management systems. Currently, she is focused on data processing for massively parallel systems, more specifically, parallel computation of queries over large graphs and their complexity."
 - name: Vraj Shah
   photo: vraj.jpg
   web: https://pvn25.github.io/
   info: "Vraj's research interest lies in accelerating the advanced data analytics life cycle by simplifying data sourcing for Machine Learning (ML) and making it easier and cheaper to deploy ML powered data analytics applications, improving both efficiency and usability of ML for data science."
+- name: Ainur Smagulova
+  photo: ainur.jpg
+  web: http://cseweb.ucsd.edu/~asmagulo/
+  info: "Ainur's research interests lie at the intersection of the theory and applications of databases and big data management systems. Currently, she is focused on data processing for massively parallel systems, more specifically, parallel computation of queries over large graphs and their complexity."
 - name: Marysia Tran 
   photo: marysia.jpg
   web: 
