@@ -1,4 +1,19 @@
 - year: 2021
+  venue: VLDB
+  title: "Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches"
+  author: Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar
+  link: https://adalabucsd.github.io/cerebro.html
+- year: 2021
+  venue: VLDB Demonstration
+  title: "Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration"
+  author: Liangde Li, Supun Nakandala, and Arun Kumar
+  link: https://adalabucsd.github.io/cerebro.html
+- year: 2021
+  venue: VLDB Industrial Track
+  title: "Towards A Polyglot Framework for Factorized ML"
+  author: David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar
+  link: https://adalabucsd.github.io/morpheus.html
+- year: 2021
   venue: ACM PODS
   title: "Datalog Unchained"
   author: Victor Vianu
@@ -23,21 +38,6 @@
   title: "Automation of Data Prep, ML, and Data Science: New Cure or Snake Oil?"
   author: Arun Kumar
   link: https://adalabucsd.github.io/papers/2021_Panel_SIGMOD.pdf
-- year: 2021
-  venue: VLDB
-  title: "Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches"
-  author: Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar
-  link: https://adalabucsd.github.io/cerebro.html
-- year: 2021
-  venue: VLDB Demonstration
-  title: "Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration"
-  author: Liangde Li, Supun Nakandala, and Arun Kumar
-  link: https://adalabucsd.github.io/cerebro.html
-- year: 2021
-  venue: VLDB Industrial Track
-  title: "Towards A Polyglot Framework for Factorized ML"
-  author: David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar
-  link: https://adalabucsd.github.io/morpheus.html
 - year: 2021
   venue: Technical Report
   title: "HADAD: A Lightweight Approach for Optimizing Hybrid Complex Analytics Queries (Extended Version)"
