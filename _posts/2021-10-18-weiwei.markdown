@@ -1,1 +1,12 @@
+---
+layout: post
+title:  "Accelerating Analytic Queries on Oracle In-Memory Database"
+date:   2021-10-18
+author: Dr. Weiwei Gong (Oracle)
+---
 
+Oracle In-Memory database was first released in 2014, with its unique dual-format architecture, Oracle Database In-Memory transparently accelerates analytics queries by orders of magnitude, and enables HTAP for real time decision making. On columnar data, the scan could be blazingly fast, however the challenge remains on improving important higher level SQL operators such as joins and aggregation performance. In this talk, I will first introduce Oracle Database In-Memory architecture, then I will present various work we have made as well as ongoing work on accelerating In-Memory analytic queries, such as novel data structures and algorithms design, query execution engine re-design, and modern hardware acceleration.
+
+Speaker bio:
+
+Weiwei Gong is the Senior Manager of Data and In-Memory Technologies at Oracle. She is interested in the intersection of data management, high-performance computing and computer systems. Passionate about hardware software co-design, Weiwei leads a team of talented developers that builds performance-critical features of Oracle Database In-Memory. Her work has enabled efficient analytic query processing by leveraging emerging hardware technologies. Weiwei earned her M.S. from Renmin University of China, and Ph.D. from UMass Boston, both in Computer Science.
