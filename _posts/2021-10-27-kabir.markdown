@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Hydra: A Data System for Large Multi-Model Deep Learning"
+date:   2021-10-27
+author: Kabir Nagrecha (UC San Diego)
+---
+
+Recent advances in deep learning (DL) architectures have improved model quality in a variety of domains, but have come at the expense of a substantial increase in model sizes. Model architectures have reached unprecedented scales, and multi-billion parameter models have become commonplace.
+
+Unfortunately, GPU memory capacity growth has not kept pace with this rapid expansion, introducing a new systems bottleneck for DL users. While solutions exist, such as model parallelism, they suffer from performance drawbacks and introduce efficiency issues of their own.
+
+In this talk, I will introduce Hydra, our new system for large-scale multi-model training. Hydra takes a fresh database-inspired approach to the problem, introducing new ML systems techniques adapted from RDBMSs. This includes a highly general form of automatic model sharding and spilling across memory hierarchy, a novel hybrid of model parallelism and task parallelism inspired by multi-query optimization, and a new paired scheduling scheme inspired by double buffering in RDBMSs.
+
+Our system demonstrates linear speedups against model parallelism and 50% faster training times versus state-of-the-art pipeline parallel techniques. To explore Hydra's real-world usability, we are currently working with a group training deep learning models for physics, where high-resolution data poses challenges for scalability.
+
+Speaker bio:
+
+Kabir is a Ph.D. student in the UC San Diego databases group advised by Professor Arun Kumar. His research broadly addresses performance optimizations in machine learning systems design, with his most recent work focusing on enabling efficient training of large-scale models.
