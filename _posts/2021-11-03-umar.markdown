@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A 3-year History of Instance Optimized DB Research at Microsoft"
+date:   2021-11-03
+author: Umar Farooq Minhas (Microsoft Research)
+---
+
+Modern systems need to handle a variety of workloads and use cases. It is very difficult for one system architecture to cater to these use cases therefore, a "one-size-fits-all" architecture does not work in practice. Even with specialized architectures, customers must make compromises on performance, functionality, and usability when running "hybrid" workloads. Further, after the initial deployment, customer's workloads and requirements may change.
+
+Over the last several years, at Microsoft, we have been on a quest to design practical instance optimized systems (IOS), systems which are custom-fit or "tailored" to customer’s initial requirements, and continuously "adapt" to their changing requirements. A key insight is that by "learning" from the specific data and workload distributions, a system can instance optimize itself to that specific data and workload. I'll talk about the enabling trends for instance optimization and present our work on instance optimized indexes and storage layouts. I'll conclude with some open research challenges.
+
+Speaker bio:
+
+Umar is a Principal Researcher in the Data Systems Group at Microsoft Research, Redmond. He currently works on instance optimized systems -- applying ML to systems, and on improving price-performance for cloud-based transactional and analytics platforms.
