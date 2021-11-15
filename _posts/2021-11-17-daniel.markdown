@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Efficient and Reliable Query Processing using Machine Learning"
+date:   2021-11-17
+author: Daniel Kang (Stanford University)
+---
+
+Given the rise of increasingly powerful models, machine learning (ML) can now be used to answer a range of queries over unstructured data (e.g., videos, text) by extracting structured information over this data (e.g., object types and positions in scenes). Unfortunately, ML can be prohibitively expensive to deploy (e.g., costing millions of dollars to process a year's worth of data) and too unreliable for many use cases.
+
+In this talk, I will describe how a new class of ML-based query systems can tackle these challenges. I will first describe how query optimization systems can enable ML-based queries over unstructured data. Given an "oracle" method the user wishes to mimic (i.e., an human expert labeler or an expensive ML method), systems can automatically train and execute more inexpensive "proxy" models that approximate the oracle. I will describe our work building query systems to accelerate a range of queries – including common selection, aggregation, and limit operations – by orders of magnitude while providing strong statistical guarantees on query accuracy despite using possibly noisy proxy-based approximations. Towards improving the reliability of ML systems, I will also describe new systems-based programming abstractions to find errors in both ML models and in human-generated labels. Finally, I will discuss our experience deploying these systems in the field both at Toyota and with Stanford ecologists.
+
+Speaker bio:
+
+Daniel Kang is a final year PhD student in the Stanford DAWN lab, co-advised by Professors Peter Bailis and Matei Zaharia. His research focuses on systems approaches for deploying unreliable and expensive machine learning methods efficiently and reliably. In particular, he focuses on using cheap approximations to accelerate query processing algorithms and new programming models for ML data management. Daniel is collaborating with autonomous vehicle companies and ecologists to deploy his research. His work is supported in part by the NSF GRFP and the Google PhD fellowship.
