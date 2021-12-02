@@ -14,3 +14,5 @@ Our forecasting-modeling-planning architecture enables an autonomous DBMS that p
 Speaker bio:
 
 Lin is a Postdoc in the CMU database group working with Andy Pavlo to develop the NoisePage DBMS, a self-driving DBMS designed from the ground up. Lin recently graduated from CMU with a PhD in Computer Science.
+
+Public video of talk: https://www.youtube.com/watch?v=2rvv_cBK0uY 
