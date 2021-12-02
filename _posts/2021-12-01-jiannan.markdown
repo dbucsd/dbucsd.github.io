@@ -12,3 +12,5 @@ In this talk, I will start by answering two fundamental questions: i) what makes
 Speaker bio:
 
 Jiannan Wang (https://www.cs.sfu.ca/~jnwang) is an Associate Professor and the Director of the Professional Master’s Program in the School of Computing Science at Simon Fraser University. Prior to that, he was a postdoc in the AMPLab at UC Berkeley. He obtained his Ph.D. from Tsinghua University. He has over ten years’ research experience in data preparation.  His research contributions won him the VLDB Best Experiments, Analysis & Benchmark Paper Award (2021), a CS-Can/Info-Can Outstanding Early Career Researcher Award (2020), an IEEE TCDE Rising Star Award (2018), an ACM SIGMOD Best Demonstration Award (2016), a Distinguished Dissertation Award from the China Computer Federation (2013), and a Google Ph.D. Fellowship (2011). He is a General Co-chair for VLDB 2023, a Ph.D. Symposium Track Chair for ICDE 2022, an Associate Editor for VLDB 2021, and a core PC member for SIGMOD 2019.
+
+Public video of talk: https://www.youtube.com/watch?v=M3xO0vVIKV0
