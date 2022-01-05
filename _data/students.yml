@@ -33,7 +33,11 @@
 - name: Aditya Lahiri
   photo: Aditya.jpg
   web: https://adityalahiri.github.io/
-  info: "Aditya is a master’s student in the CSE Department. Prior to this, he worked at American Express, India. His interests lie in trustworthy ml and ensemble algorithms."
+  info: "Aditya is a master’s student in the CSE Department. Prior to this, he worked at American Express, India. His interests lie in trustworthy ML and ensemble algorithms."
+- name: Baharan Khatami
+  photo: Baharan.jpg
+  web: https://www.linkedin.com/in/bah-kh/
+  info: "Baharan's research interests lie in fair and explainable machine learning and causal inference in relational data using different techniques like graph representation learning."
 - name: Jiongli Zhu
   photo: Jiongli.png
   web: https://www.linkedin.com/in/jionglizhu/
