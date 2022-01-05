@@ -34,3 +34,11 @@
   photo: Se-eun.jpg
   web: https://seeuny.com/
   info: "Se-eun’s research interest is applied machine learning for graphs, recommender systems, and various complex data. She seeks to make learning systems more explainable and reliable by incorporating causal inference, knowledge bases, and human feedback."
+- name: Jiongli Zhu
+  photo: Jiongli.png
+  web: https://www.linkedin.com/in/jionglizhu/
+  info: "Jiongli's research interests include explainable machine learning and data management."
+- name: Aditya Lahiri
+  photo: Aditya.jpg
+  web: https://adityalahiri.github.io/
+  info: "Aditya is a master’s student in the CSE Department. Prior to this, he worked at American Express, India. His interests lie in trustworthy ml and ensemble algorithms."
