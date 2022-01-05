@@ -30,3 +30,7 @@
   photo: xiuwen.jpg
   web: https://xiz675.github.io/
   info: "Xiuwen's research interests lie in heterogeneous data management, polystore system, query optimization and AI in DB."
+- name: Se-eun Yoon
+  photo: Se-eun.jpg
+  web: https://seeuny.com/
+  info: "Se-eun’s research interest is applied machine learning for graphs, recommender systems, and various complex data. She seeks to make learning systems more explainable and reliable by incorporating causal inference, knowledge bases, and human feedback."
