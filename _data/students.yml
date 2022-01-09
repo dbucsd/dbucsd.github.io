@@ -46,6 +46,10 @@
   photo: Se-eun.jpg
   web: https://seeuny.com/
   info: "Se-eun’s research interests are applied machine learning for graphs, recommender systems, and various complex data. She seeks to make learning systems more explainable and reliable by incorporating causal inference, knowledge bases, and human feedback."
+- name: Vaishnavi Muppala
+  photo: Vaishnavi.jpg
+  web: https://www.linkedin.com/in/vaishnavi-muppala/
+  info: "Vaishnavi's research interests are tuning Database Systems through Large-scale Machine Learning and recommender systems. Vaishnavi is especially keen on learning new methods to make ML models more interpretable and explainable."
 - name: Yasaman Jafari
   photo: Yasaman.jpg
   web: https://www.linkedin.com/in/ysjf/
