@@ -1,3 +1,8 @@
+- year: 2022
+  venue: ACM SIGMOD
+  title: "Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets"
+  author: Supun Nakandala and Arun Kumar
+  link: https://adalabucsd.github.io/papers/TR_2021_Nautilus.pdf
 - year: 2021
   venue: KDD Deep Learning Day
   title: "Some Damaging Delusions of Deep Learning Practice (and How to Avoid Them)"
