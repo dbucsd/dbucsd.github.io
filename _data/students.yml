@@ -30,31 +30,19 @@
   photo: xiuwen.jpg
   web: https://xiz675.github.io/
   info: "Xiuwen's research interests lie in heterogeneous data management, polystore system, query optimization and AI in DB."
-- name: Aditya Lahiri
-  photo: Aditya.jpg
-  web: https://adityalahiri.github.io/
-  info: "Aditya is a master’s student in the CSE Department. Prior to this, he worked at American Express, India. His interests lie in trustworthy ML and ensemble algorithms."
 - name: Baharan Khatami
   photo: Baharan.jpg
   web: https://www.linkedin.com/in/bah-kh/
   info: "Baharan's research interests lie in fair and explainable machine learning and causal inference in relational data using different techniques like graph representation learning."
-- name: Jiongli Zhu
-  photo: Jiongli.png
-  web: https://www.linkedin.com/in/jionglizhu/
-  info: "Jiongli's research interests include explainable machine learning and data management."
 - name: Nazanin Sabri
   photo: Nazanin.jpg
   web: https://www.linkedin.com/in/nazanin-sabri
-  info: "Nazanin is a Ph.D. student in the Computer Science department of UCSD. In her research, she is interested in the study of biases in machine learning models and language technologies, and the study of human behavior through their portrayals in social media platforms."
+  info: "Nazanin is a Ph.D. student in the Computer Science department of UCSD. In her research, she is interested in the study of biases in machine learning models and language technologies, responsible data management, and the study of human behavior through their portrayals in social media platforms."
 - name: Se-eun Yoon
   photo: Se-eun.jpg
   web: https://seeuny.com/
   info: "Se-eun’s research interests are applied machine learning for graphs, recommender systems, and various complex data. She seeks to make learning systems more explainable and reliable by incorporating causal inference, knowledge bases, and human feedback."
-- name: Vaishnavi Muppala
-  photo: Vaishnavi.jpg
-  web: https://www.linkedin.com/in/vaishnavi-muppala/
-  info: "Vaishnavi's research interests are tuning Database Systems through Large-scale Machine Learning and recommender systems. Vaishnavi is especially keen on learning new methods to make ML models more interpretable and explainable."
 - name: Yasaman Jafari
   photo: Yasaman.jpg
   web: https://www.linkedin.com/in/ysjf/
-  info: "Yasaman's research interests include fairness in machine learning, responsible data science, causal inference, and applied ML."
+  info: "Yasaman's research interests include fairness in machine learning and debiasing the data, data cleaning for ML, responsible data science, causal inference, and applied ML."
