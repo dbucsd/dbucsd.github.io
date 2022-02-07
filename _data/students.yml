@@ -38,10 +38,6 @@
   photo: Nazanin.jpg
   web: https://www.linkedin.com/in/nazanin-sabri
   info: "Nazanin is a Ph.D. student in the Computer Science department of UCSD. In her research, she is interested in the study of biases in machine learning models and language technologies, responsible data management, and the study of human behavior through their portrayals in social media platforms."
-- name: Se-eun Yoon
-  photo: Se-eun.jpg
-  web: https://seeuny.com/
-  info: "Se-eun’s research interests are applied machine learning for graphs, recommender systems, and various complex data. She seeks to make learning systems more explainable and reliable by incorporating causal inference, knowledge bases, and human feedback."
 - name: Yasaman Jafari
   photo: Yasaman.jpg
   web: https://www.linkedin.com/in/ysjf/
