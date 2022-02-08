@@ -2,22 +2,34 @@
   photo: blank.png
   web: http://cseweb.ucsd.edu/~ralotaib/
   info: "Rana's research interests lie broadly in the intersection of database theory and big data management systems. Her current research focuses on cross-data model query optimization in heterogeneous settings, languages/models for integrating disparate data and scalable self-tuning big data management systems."
-- name: Tara Mirmira
-  photo: tara.png
-  web: https://www.linkedin.com/in/tara-mirmira/
-  info: "Tara's research interests lie in systems for data analytics and machine learning."
+- name: Yasaman Jafari
+  photo: Yasaman.jpg
+  web: https://www.linkedin.com/in/ysjf/
+  info: "Yasaman's research interests include fairness in machine learning and debiasing the data, data cleaning for ML, responsible data science, causal inference, and applied ML."
+- name: Baharan Khatami
+  photo: Baharan.jpg
+  web: https://www.linkedin.com/in/bah-kh/
+  info: "Baharan's research interests lie in fair and explainable machine learning and causal inference in relational data using different techniques like graph representation learning."
 - name: Supun Nakandala
   photo: supun.jpg
   web: https://scnakandala.github.io/
   info: "Supun's research interest lies broadly in the intersection of Machine Learning and Systems, an emerging area which is also known as Machine Learning Systems. His current work involves implementing efficient, scalable, and reliable algorithms, systems, and abstractions for Deep Learning powered Machine Learning workloads."
+- name: Kyle Luoma
+  photo: kyle.jpeg
+  web: https://kyleluoma.github.io/
+  info: "Kyle's research interests lie in the use of data science and data engineering methods within the government domain, specifically making data-based solution engineering within the Department of Defense more accessible to data analysts and researchers via novel technologies. His current work is on speech-based querying of relational databases."
+- name: Kabir Nagrecha
+  photo: kabir.jpeg
+  web: https://kabirnagrecha.com/
+  info: "Kabir's research interests are in the area of ML systems, with a focus on applying data management techniques to improve the scalability and performance of deep learning training. His most recent work aims to improve the efficiency and trainability of deep learning workloads that are too large to fit into processor memory."
+- name: Nazanin Sabri
+  photo: Nazanin.jpg
+  web: https://www.linkedin.com/in/nazanin-sabri
+  info: "Nazanin is a Ph.D. student in the Computer Science department of UCSD. In her research, she is interested in the study of biases in machine learning models and language technologies, responsible data management, and the study of human behavior through their portrayals in social media platforms."
 - name: Vraj Shah
   photo: vraj.jpg
   web: https://pvn25.github.io/
   info: "Vraj's research interest lies in accelerating the advanced data analytics life cycle by simplifying data sourcing for Machine Learning (ML) and making it easier and cheaper to deploy ML powered data analytics applications, improving both efficiency and usability of ML for data science."
-- name: Ainur Smagulova
-  photo: ainur.jpg
-  web: http://cseweb.ucsd.edu/~asmagulo/
-  info: "Ainur's research interests lie at the intersection of the theory and applications of databases and big data management systems. Currently, she is focused on data processing for massively parallel systems, more specifically, parallel computation of queries over large graphs and their complexity."
 - name: Marysia Tran 
   photo: marysia.jpg
   web: 
@@ -30,15 +42,3 @@
   photo: xiuwen.jpg
   web: https://xiz675.github.io/
   info: "Xiuwen's research interests lie in heterogeneous data management, polystore system, query optimization and AI in DB."
-- name: Baharan Khatami
-  photo: Baharan.jpg
-  web: https://www.linkedin.com/in/bah-kh/
-  info: "Baharan's research interests lie in fair and explainable machine learning and causal inference in relational data using different techniques like graph representation learning."
-- name: Nazanin Sabri
-  photo: Nazanin.jpg
-  web: https://www.linkedin.com/in/nazanin-sabri
-  info: "Nazanin is a Ph.D. student in the Computer Science department of UCSD. In her research, she is interested in the study of biases in machine learning models and language technologies, responsible data management, and the study of human behavior through their portrayals in social media platforms."
-- name: Yasaman Jafari
-  photo: Yasaman.jpg
-  web: https://www.linkedin.com/in/ysjf/
-  info: "Yasaman's research interests include fairness in machine learning and debiasing the data, data cleaning for ML, responsible data science, causal inference, and applied ML."
