@@ -9,7 +9,7 @@
 - name: Baharan Khatami
   photo: Baharan.jpg
   web: https://www.linkedin.com/in/bah-kh/
-  info: "Baharan's research interests lie in fair and explainable machine learning and causal inference in relational data using different techniques like graph representation learning."
+  info: "Baharan's research interests lie in fair and explainable machine learning, debiasing the data, data cleaning for ML, and causal inference in relational data using different techniques like graph representation learning."
 - name: Supun Nakandala
   photo: supun.jpg
   web: https://scnakandala.github.io/
