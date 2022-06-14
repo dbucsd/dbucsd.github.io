@@ -1,7 +1,3 @@
-- name: Rana Alotaibi
-  photo: blank.png
-  web: http://cseweb.ucsd.edu/~ralotaib/
-  info: "Rana's research interests lie broadly in the intersection of database theory and big data management systems. Her current research focuses on cross-data model query optimization in heterogeneous settings, languages/models for integrating disparate data and scalable self-tuning big data management systems."
 - name: Yasaman Jafari
   photo: Yasaman.jpg
   web: https://www.yasamanjafari.com/
@@ -10,10 +6,6 @@
   photo: Baharan.jpg
   web: https://www.linkedin.com/in/bah-kh/
   info: "Baharan's research interests lie in fair and explainable machine learning, debiasing the data, data cleaning for ML, and causal inference in relational data using different techniques like graph representation learning."
-- name: Supun Nakandala
-  photo: supun.jpg
-  web: https://scnakandala.github.io/
-  info: "Supun's research interest lies broadly in the intersection of Machine Learning and Systems, an emerging area which is also known as Machine Learning Systems. His current work involves implementing efficient, scalable, and reliable algorithms, systems, and abstractions for Deep Learning powered Machine Learning workloads."
 - name: Kyle Luoma
   photo: kyle.jpeg
   web: https://kyleluoma.github.io/
@@ -26,10 +18,6 @@
   photo: Nazanin.jpg
   web: https://www.linkedin.com/in/nazanin-sabri
   info: "Nazanin is a Ph.D. student in the Computer Science department of UCSD. In her research, she is interested in the study of biases in machine learning models and language technologies, responsible data management, and the study of human behavior through their portrayals in social media platforms."
-- name: Vraj Shah
-  photo: vraj.jpg
-  web: https://pvn25.github.io/
-  info: "Vraj's research interest lies in accelerating the advanced data analytics life cycle by simplifying data sourcing for Machine Learning (ML) and making it easier and cheaper to deploy ML powered data analytics applications, improving both efficiency and usability of ML for data science."
 - name: Marysia Tran 
   photo: marysia.jpg
   web: 
