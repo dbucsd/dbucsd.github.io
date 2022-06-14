@@ -1,3 +1,18 @@
+- name: Rana Alotaibi
+  year: 2022
+  type: PhD
+  web : https://cseweb.ucsd.edu//~ralotaib/
+  advisor: Alin Deutsch
+- name: Supun Nakandala
+  year: 2022
+  type: PhD
+  web : https://scnakandala.github.io/
+  advisor: Arun Kumar
+- name: Vraj Shah
+  year: 2022
+  type: PhD
+  web : https://pvn25.github.io/
+  advisor: Arun Kumar
 - name: Ainur Smagulova
   year: 2021
   type: PhD
