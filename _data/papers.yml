@@ -1,4 +1,29 @@
 - year: 2022
+  venue: ICML Workshop on Responsible Decision Making in Dynamic Environments
+  title: "Combining Counterfactuals With Shapley Values To Explain Image Models"
+  author: Aditya Lahiri, Kamran Alipour, Ehsan Adeli, and Babak Salimi
+  link: https://arxiv.org/pdf/2206.07087.pdf
+- year: 2022
+  venue: ACM SIGMOD
+  title: "HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach"
+  author: Sainyam Galhotra, Amir Gilad, Sudeepa Roy, and Babak Salimi
+  link: https://dl.acm.org/doi/pdf/10.1145/3514221.3526149
+- year: 2022
+  venue: ACM SIGMOD
+  title: "Generating Interpretable Data-Based Explanations for Fairness Debugging using Gopher"
+  author: Jiongli Zhu, Romila Pradhan, Boris Glavic, and Babak Salimi
+  link: https://dl.acm.org/doi/abs/10.1145/3514221.3520170
+- year: 2022
+  venue: ACM SIGMOD Tutorial
+  title: "Explainable AI: Foundations, Applications, Opportunities for Data Management Research"
+  author: Romila Pradhan, Aditya Lahiri, Sainyam Galhotra, and Babak Salimi
+  link: https://dl.acm.org/doi/10.1145/3514221.3522564
+- year: 2022
+  venue: IEEE International Conference on Data Engineering (ICDE) Tutorial
+  title: "Explainable AI: Foundations, Applications, Opportunities for Data Management Research"
+  author: Romila Pradhan, Aditya Lahiri, Sainyam Galhotra, and Babak Salimi
+  link: https://drive.google.com/file/d/10wGsYjPo4VM9j5P40NS28h9DkWF3Lx9d/view
+- year: 2022
   venue: ACM SIGMOD
   title: "Interpretable Data-based Explanations for Fairness Debugging"
   author: Romila Pradhan, Jiongli Zhu, Boris Glavic, and Babak Salimi
