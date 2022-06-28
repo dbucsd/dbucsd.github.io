@@ -14,10 +14,6 @@
   photo: kabir.jpeg
   web: https://kabirnagrecha.com/
   info: "Kabir's research interests are in the area of ML systems, with a focus on applying data management techniques to improve the scalability and performance of deep learning training. His most recent work aims to improve the efficiency and trainability of deep learning workloads that are too large to fit into processor memory."
-- name: Nazanin Sabri
-  photo: Nazanin.jpg
-  web: https://www.linkedin.com/in/nazanin-sabri
-  info: "Nazanin is a Ph.D. student in the Computer Science department of UCSD. In her research, she is interested in the study of biases in machine learning models and language technologies, responsible data management, and the study of human behavior through their portrayals in social media platforms."
 - name: Marysia Tran 
   photo: marysia.jpg
   web: 
