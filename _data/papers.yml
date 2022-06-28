@@ -1,9 +1,4 @@
 - year: 2022
-  venue: ICML Workshop on Responsible Decision Making in Dynamic Environments
-  title: "Combining Counterfactuals With Shapley Values To Explain Image Models"
-  author: Aditya Lahiri, Kamran Alipour, Ehsan Adeli, and Babak Salimi
-  link: https://arxiv.org/pdf/2206.07087.pdf
-- year: 2022
   venue: ACM SIGMOD
   title: "HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach"
   author: Sainyam Galhotra, Amir Gilad, Sudeepa Roy, and Babak Salimi
