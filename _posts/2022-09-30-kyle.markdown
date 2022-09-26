@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "SpeakQL2: A Dialect System for Improving Speech-driven Querying of Structured Data"
+date:   2022-10-30
+author: Kyle Luoma (UC San Diego)
+---
+
+SpeakQL2 builds upon prior work done within the ADALab on a speech + touch SQL query interface designed to enable effective SQL querying against databases using mobile devices. SpeakQL2 introduces a new dialect of SQL designed to make the speech dictation process more natural. In this presentation, we discuss the objectives of the language, language features, implementation details, and an ongoing usability study that we are conducting to evaluate various features of the new dialect.
+
+Speaker bio:
+
+Kyle Luoma is a PhD student in the UCSD Jacobs School of Computer Science and Engineering (CSE) database lab. He is also a member of the United States Army, and is pursuing his PhD as part of his pathway toward a follow-on position as research faculty at the Army Cyber Institute, United States Military Academy at West Point. Kyle is currently conducting research in the area of human-database interaction and database usability.
