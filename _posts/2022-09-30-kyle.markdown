@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SpeakQL2: A Dialect System for Improving Speech-driven Querying of Structured Data"
-date:   2022-10-30
+date:   2022-09-30
 author: Kyle Luoma (UC San Diego)
 ---
 
