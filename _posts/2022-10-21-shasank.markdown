@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Dream the Stream: High Velocity Event Processing with a Converged Database"
+date:   2022-10-21
+author: Shasank Chavan (Oracle)
+---
+
+Event stream processing is a rapidly growing category of workloads including IoT, Timeseries, Clickstream, Quality Control, Security, Auditing, Metrics, and Monitoring, etc. Analysts estimate the market to grow to $4B USD by 2027! One industry trend has been to use purpose-built stream processing engines for these workloads. This approach, however, sacrifices most of the advantages of an industrial-strength database platform. In this talk, we’ll discuss the key aspects of streaming workloads and the requirements of effective stream processing engines, and then show how the many capabilities of the Oracle Database, such as Native JSON support, RAC, Parallel Query, ILM (Information Lifecycle Management) Policies, In-Memory Columnar processing and Advanced Analytics, come together to provide an ideal streaming architecture on a converged database.
+
+Speaker bio:
+
+Shasank Chavan is the Vice President of the Data and In-Memory Technologies group at Oracle. He leads a team of brilliant engineers in the Database organization who develop customer-facing, performance-critical features for an In-Memory Columnar Store which, as Larry Ellison proclaimed, “processes data at ungodly speeds”. His team is currently building Oracle's next-generation, highly distributed, data storage engine that powers the cloud. Shasank earned his BS/MS in Computer Science at the University of California, San Diego. He has accumulated 30+ patents over a span of 23 years working on systems software technology.
