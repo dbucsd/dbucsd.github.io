@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Autonomics in Amazon Redshift"
+date:   2022-10-07
+author: Dr. Chunbin Lin (Amazon Web Services)
+---
+
+Amazon Redshift is Amazon's petabyte-scale data warehouse service. It uses machine learning techniques in multiple areas of the service, e.g., automatic workload management. In this talk, I will present how machine learning is being used in Redshift to improve the operational health, efficiency, performance and cost.
+
+Speaker bio:
+
+Chunbin Lin is a software engineer at Amazon AWS Redshift team. He completed his Ph.D. in computer science at the University of California, San Diego (UCSD). His research interests lie at the intersection of distributed databases and machine learning. He has published more than 30 papers in database conferences, such as SIGMOD, VLDB, and ICDE. He also served as a program committee (PC) for many conferences including SIGMOD, VLDB, and ICDE.
