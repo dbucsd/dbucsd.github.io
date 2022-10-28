@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Milvus: A Cloud-Native Vector Database"
+date:   2022-10-28
+author: Frank Liu (Zilliz)
+---
+
+The total amount of digital data generated worldwide is increasing at a rapid rate. Simultaneously, approximately 80% (and growing) of this newly generated data is unstructured data - data that does not conform to a table- or object-based model. Examples of unstructured data include text, images, protein structures, geospatial information, and IoT data streams. Despite this, the vast majority of companies and organizations do not have a way of storing and analyzing these increasingly large quantities of unstructured data. Embeddings - high-dimensional, dense vectors which represent the semantic content of unstructured data - can remedy this. Armed with this knowledge, it's clear that the mobile/IoT era necessitates a new type of cloud-native, fully distributed database purpose-built to store, search, and index large quantities of embedding vectors: Milvus. In this presentation, we'll introduce the design and principles behind Milvus - the world's most popular open-source vector database trusted by over 1000 organizations. We will also share various real-world use cases and applications.
+
+Speaker bio:
+
+Frank Liu is the Director of Operations and ML Architect at Zilliz with over 8 years of industry experience in machine learning and hardware engineering. Prior to joining Zilliz, Frank co-founded an IoT startup based in Shanghai and worked as a ML Software Engineer at Yahoo in San Francisco. He presents at major industry events such as Open Source Summit and writes tech content for leading publications such as Towards Data Science and DZone. Frank holds MS and BS degrees in Electrical Engineering from Stanford University.
+
+Talk video on YouTube: https://www.youtube.com/watch?v=75G513Y9rkU
