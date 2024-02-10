@@ -1,23 +1,23 @@
 - name: Alin Deutch
   photo: alin.jpg
   web: http://db.ucsd.edu/People/alin/
-  info: "Alin's interests include prdata publishing and integration, specification and verification of database-powered business processes and semistructured and XML data. His research is currently sponsored by the NSF."
+  info: "Alin's research interests include data publishing and integration, specification and verification of DB-powered business processes and semistructured and XML data."
   scholar: https://scholar.google.com/citations?user=2lZr6WsAAAAJ&hl=en&oi=ao
   dblp: https://dblp.uni-trier.de/pers/d/Deutsch:Alin.html
 - name: Arun Kumar
   photo: arun.jpg
   web: http://cseweb.ucsd.edu/~arunkk/
-  info: "Arun's research interests are in data management and systems for machine learning-based data analytics. His research focuses on designing abstractions, algorithms, and systems that make it easier and faster to analyze large and complex datasets using machine learning."
+  info: "Arun's research interests are in data management and systems for ML/AI-based data analytics. His work focuses on designing abstractions, algorithms, and systems to make it easier and faster to analyze large and complex datasets using ML/AI."
   scholar: https://scholar.google.com/citations?user=hZQ57XcAAAAJ&hl=en&oi=ao
 - name: Babak Salimi
   photo: babak.jpg
   web: https://bsalimi.github.io/
-  info: "Babak's research interests are in data management, causal inference, responsible data science and data ethics. His research seeks to unify techniques from theoretical data management, causal inference and machine learning to develop the necessary conceptual foundations for decision-making and policy evaluation from complex relational data, algorithmic fairness, explainability and accountability."
+  info: "Babak's research interests are in data management, causal inference, responsible data science, and data ethics. His work unifies techniques from DB theory, causal inference, and ML to lay the foundations for decision-making and policy evaluation from complex relational data, algorithmic fairness, explainability, and accountability."
   scholar: https://scholar.google.com/citations?user=KC8hpXkAAAAJ&hl=en
   dblp: https://dblp.uni-trier.de/pid/11/6446.html
 - name: Victor Vianu
   photo: victor.jpg
   web: https://cseweb.ucsd.edu/~vianu/
-  info: "Victor's research interests are in database systems and theory. He has been focusing on verification of database-driven systems, an area at the boundary of databases and computer-aided verification. His current research focuses on automatic verification of interactive data-driven Web services and business processes. He is also interested in the theory of query languages and computational logic."
+  info: "Victor's research interests are in DB systems and theory. His current work focuses on verification of DB-driven systems, at the intersection of DB and computer-aided verification, and on automatic verification of interactive data-driven Web services and business processes. He is also interested in the theory of query languages and computational logic."
   scholar: https://scholar.google.com/citations?user=CK_GLC8AAAAJ&hl=en&oi=ao
   dblp: https://dblp.org/pers/v/Vianu:Victor.html
