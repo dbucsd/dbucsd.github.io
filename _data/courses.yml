@@ -9,7 +9,7 @@
 - code: CSE 233
   name: Database Theory
   level: graduate
-- code: CSE 234 (formerly CSE 291)
+- code: CSE 234
   name: Data Systems for Machine Learning
   link: http://cseweb.ucsd.edu/classes/fa20/cse291-d/
   level: graduate
@@ -21,15 +21,19 @@
   name: Database System Applications
   link: https://cseweb.ucsd.edu/classes/wi19/cse132B-a/
   level: undergraduate
-- code: CSE 132C (formerly CSE 190)
+- code: CSE 132C
   name: Database System Implementation
   link: http://cseweb.ucsd.edu/classes/sp20/cse132C-a/
   level: undergraduate
-- code: DSC 102
-  name: Systems for Scalable Analytics
-  level: undergraduate
-  link: http://cseweb.ucsd.edu/~arunkk/dsc102_winter20/
 - code: CSE 239A
   name: Database Seminar
   link: https://dbucsd.github.io/seminar
   level: seminar
+- code: DSC 100
+  name: Introduction to Data Management
+  level: undergraduate
+  link: https://bsalimi.github.io/dsc100-sp23/
+- code: DSC 102
+  name: Systems for Scalable Analytics
+  level: undergraduate
+  link: https://cseweb.ucsd.edu/~arunkk/dsc102_fall22/
