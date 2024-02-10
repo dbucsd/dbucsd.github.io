@@ -1,3 +1,13 @@
+- name: Yuhao Zhang
+  year: 2023
+  type: PhD
+  web: https://yhzhang.info
+  advisor: Arun Kumar
+- name: Romila Pradhan
+  year: 2022
+  type: PostDoc
+  web : https://romilapradhan.github.io
+  advisor: Babak Salimi
 - name: Rana Alotaibi
   year: 2022
   type: PhD
@@ -6,7 +16,7 @@
 - name: Supun Nakandala
   year: 2022
   type: PhD
-  web : https://scnakandala.github.io/
+  web: https://scnakandala.github.io/
   advisor: Arun Kumar
 - name: Vraj Shah
   year: 2022
