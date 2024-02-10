@@ -9,12 +9,12 @@
   web: http://cseweb.ucsd.edu/~arunkk/
   info: "Arun's research interests are in data management and systems for machine learning-based data analytics. His research focuses on designing abstractions, algorithms, and systems that make it easier and faster to analyze large and complex datasets using machine learning."
   scholar: https://scholar.google.com/citations?user=hZQ57XcAAAAJ&hl=en&oi=ao
-- name: Yannis Papakonstantinou
-  photo: yannis.jpg
-  web: http://db.ucsd.edu/People/yannis.htm
-  info: "Yannis' research extends the capabilities of data platforms and query processors. He has published over 100 research articles with more than 14,000 citations."
-  scholar: https://scholar.google.com/citations?user=81cvn3sAAAAJ&hl=en&oi=ao
-  dblp: https://dblp.org/pers/p/Papakonstantinou:Yannis.html
+- name: Babak Salimi
+  photo: babak.jpg
+  web: https://bsalimi.github.io/
+  info: "Babak's research interests are in data management, causal inference, responsible data science and data ethics. His research seeks to unify techniques from theoretical data management, causal inference and machine learning to develop the necessary conceptual foundations for decision-making and policy evaluation from complex relational data, algorithmic fairness, explainability and accountability."
+  scholar: https://scholar.google.com/citations?user=KC8hpXkAAAAJ&hl=en
+  dblp: https://dblp.uni-trier.de/pid/11/6446.html
 - name: Victor Vianu
   photo: victor.jpg
   web: https://cseweb.ucsd.edu/~vianu/
