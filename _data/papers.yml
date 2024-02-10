@@ -1,3 +1,33 @@
+- year: 2024
+  venue: VLDB
+  title: "How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses"
+  author: Vraj Shah, Thomas Parashos, and Arun Kumar
+  link: https://adalabucsd.github.io/papers/TR_2023_CategDedup.pdf
+- year: 2024
+  venue: VLDB
+  title: "Saturn: An Optimized Data System for Multi-Large-Model Deep Learning Workloads"
+  author: Kabir Nagrecha and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2024_Saturn_VLDB.pdf
+- year: 2023
+  venue: VLDB
+  title: "Lotan: Bridging the Gap between GNNs and Scalable Graph Analytics Engines"
+  author: Yuhao Zhang and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2023_Lotan_VLDB.pdf
+- year: 2023
+  venue: IEEE ICASSP
+  title: "Database-Aware ASR Error Correction for Speech-to-SQL Parsing"
+  author: Yutong Shao, Arun Kumar, and Ndapandula Nakashole
+  link: https://ieeexplore.ieee.org/document/10097246
+- year: 2022
+  venue: IEEE Data Engineering Bulletin
+  title: "Structured Data Representation in Natural Language Interfaces"
+  author: Yutong Shao, Arun Kumar, and Ndapandula Nakashole
+  link: https://adalabucsd.github.io/papers/2022_SpeakQL_DataEngBulletin.pdf
+- year: 2022
+  venue: ACM SIGMOD Record
+  title: "VLDB Scalable Data Science Category: The Inaugural Year"
+  author: Arun Kumar, Alon Halevy, and Nesime Tatbul
+  link: https://adalabucsd.github.io/papers/2022_SDS_SIGMODRecord.pdf
 - year: 2022
   venue: ACM SIGMOD
   title: "HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach"
