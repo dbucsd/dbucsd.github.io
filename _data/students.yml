@@ -14,3 +14,7 @@
   photo: xiuwen.jpg
   web: https://xiz675.github.io/
   info: "Xiuwen's research interests lie in heterogeneous data management, polystore system, query optimization and AI in DB."
+- name: Jiongli Zhu
+  photo: jiongli.jpeg
+  web: https://lodino.github.io/
+  info: "Jiongli's research interests lie in data cleaning and debiasing for machine learning applications."
