@@ -2,14 +2,14 @@
   photo: Baharan.jpg
   web: https://www.linkedin.com/in/bah-kh/
   info: "Baharan's research interests lie in fair and explainable machine learning, debiasing the data, data cleaning for ML, and causal inference in relational data using different techniques like graph representation learning."
+- name: Animesh Kumar
+  photo: animesh.jpeg
+  web: https://animeshk08.github.io/
+  info: "Animesh's research interests are in the areas of NLP and ML systems, with a focus on developing scalable and compute-efficient LLMs to improve training and inference with limited resources. His most recent work aims to develop improved benchmark standards for LLMs and create frameworks to analyze highly correlated text documents."
 - name: Kyle Luoma
   photo: kyle.jpeg
   web: https://kyleluoma.github.io/
   info: "Kyle's research interests lie in the use of data science and data engineering methods within the government domain, specifically making data-based solution engineering within the Department of Defense more accessible to data analysts and researchers via novel technologies. His current work is on speech-based querying of relational databases."
-- name: Kabir Nagrecha
-  photo: kabir.jpeg
-  web: https://kabirnagrecha.com/
-  info: "Kabir's research interests are in the area of ML systems, with a focus on applying data management techniques to improve the scalability and performance of deep learning training. His most recent work aims to improve the efficiency and trainability of deep learning workloads that are too large to fit into processor memory."
 - name: Xiuwen Zheng
   photo: xiuwen.jpg
   web: https://xiz675.github.io/
