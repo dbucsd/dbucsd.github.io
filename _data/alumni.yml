@@ -8,6 +8,10 @@
   type: PhD
   web: https://yhzhang.info
   advisor: Arun Kumar
+- name: Pradyumna Sridhara
+  year: 2023
+  type: MS
+  advisor: Arun Kumar
 - name: Romila Pradhan
   year: 2022
   type: PostDoc
@@ -28,11 +32,31 @@
   type: PhD
   web : https://pvn25.github.io/
   advisor: Arun Kumar
+- name: Tanay Karve
+  year: 2022
+  type: MS
+  advisor: Arun Kumar
+- name: Vignesh Nanda Kumar
+  year: 2022
+  type: MS
+  advisor: Arun Kumar
+- name: Liangde Li
+  year: 2022
+  type: MS
+  advisor: Arun Kumar
+- name: Tara Mirmira
+  year: 2022
+  type: MS
+  advisor: Arun Kumar
 - name: Ainur Smagulova
   year: 2021
   type: PhD
   web : https://cseweb.ucsd.edu/~asmagulo/
   advisor: Alin Deutsch
+- name: Side Li
+  year: 2021
+  type: MS
+  advisor: Arun Kumar
 - name: Nikos Koulouris
   year: 2020
   type: PhD
@@ -48,6 +72,10 @@
   type: PhD
   web : http://zarifis.info/
   advisor: Yannis Papakonstantinou
+- name: David Justo
+  year: 2019
+  type: MS
+  advisor: Arun Kumar
 - name: Yuliang Li
   year: 2018
   type: PhD
@@ -63,11 +91,19 @@
   type: PhD
   web : http://cseweb.ucsd.edu/~csjgwang/
   advisor: Yannis Papakonstantinou and Steve Swanson
+- name: Anthony Thomas
+  year: 2018
+  type: MS
+  advisor: Arun Kumar
 - name: Yannis Katsis
   year: 2017
   type: PostDoc
   web: http://cseweb.ucsd.edu/~ikatsis/
   advisor: Yannis Papakonstantinou
+- name: Mingyang Wang
+  year: 2017
+  type: MS
+  advisor: Arun Kumar
 - name: Wojtek Kazana
   year: 2014
   type: PostDoc
