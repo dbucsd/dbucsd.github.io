@@ -3,7 +3,7 @@
   web: https://www.linkedin.com/in/bah-kh/
   info: "Baharan's research interests lie in fair and explainable machine learning, debiasing the data, data cleaning for ML, and causal inference in relational data using different techniques like graph representation learning."
 - name: Animesh Kumar
-  photo: animesh.jpeg
+  photo: animesh.jpg
   web: https://animeshk08.github.io/
   info: "Animesh's research interests are in the areas of NLP and ML systems, with a focus on developing scalable and compute-efficient LLMs to improve training and inference with limited resources. His most recent work aims to develop improved benchmark standards for LLMs and create frameworks to analyze highly correlated text documents."
 - name: Kyle Luoma
