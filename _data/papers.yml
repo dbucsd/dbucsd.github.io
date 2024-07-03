@@ -1,9 +1,4 @@
 - year: 2024
-  venue: SIGMOD
-  title: "OTClean: Data Cleaning for Conditional Independence Violations using Optimal Transport"
-  author: Alireza Pirhadi, Mohammad Hossein Moslemi, Alexander Cloninger, Mostafa Milani, and Babak Salimi
-  link: https://arxiv.org/abs/2403.02372
-- year: 2024
   venue: VLDB
   title: "How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses"
   author: Vraj Shah, Thomas Parashos, and Arun Kumar
@@ -13,6 +8,11 @@
   title: "Saturn: An Optimized Data System for Multi-Large-Model Deep Learning Workloads"
   author: Kabir Nagrecha and Arun Kumar
   link: https://adalabucsd.github.io/papers/2024_Saturn_VLDB.pdf
+- year: 2024
+  venue: SIGMOD
+  title: "OTClean: Data Cleaning for Conditional Independence Violations using Optimal Transport"
+  author: Alireza Pirhadi, Mohammad Hossein Moslemi, Alexander Cloninger, Mostafa Milani, and Babak Salimi
+  link: https://arxiv.org/abs/2403.02372
 - year: 2023
   venue: VLDB
   title: "Consistent Range Approximation for Fair Predictive Modeling"
