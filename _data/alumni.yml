@@ -1,3 +1,18 @@
+- name: Kyle Luoma
+  year: 2026
+  type: PhD
+  web: https://kyleluoma.github.io/
+  advisor: Arun Kumar
+- name: Xiuwen Zheng
+  year: 2025
+  type: PhD
+  web: https://xiz675.github.io/
+  advisor: Arun Kumar
+- name: Animesh Kumar
+  year: 2025
+  type: MS
+  web: https://animeshk08.github.io/
+  advisor: Arun Kumar
 - name: Kabir Nagrecha
   year: 2024
   type: PhD
