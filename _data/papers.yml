@@ -1,23 +1,58 @@
+- year: 2026
+  venue: VLDB
+  title: "SKALPEL: Schema Knowledge Adjustments for LLM Performance Enhancements in Large Databases"
+  author: Kyle Luoma and Arun Kumar
+  link: 
+- year: 2026
+  venue: ICDE
+  title: "MICRO: A Lightweight Middleware for Optimizing Cross-store Cross-model Graph-Relation Joins"
+  author: Xiuwen Zheng, Arun Kumar, and Amarnath Gupta
+  link: https://adalabucsd.github.io/papers/2026_MICRO_ICDE.pdf
+- year: 2025
+  venue: SIGMOD
+  title: "SNAILS: Schema Naming Assessments for Improved LLM-based SQL Inference"
+  author: Kyle Luoma and Arun Kumar
+  link: https://adalabucsd.github.io/papers/2025_SNAILS_SIGMOD.pdf
+- year: 2025
+  venue: VLDB
+  title: "Causal DAG Summarization"
+  author: Anna Zeng, Michael Cafarella, Batya Kenig, Markos Markakis, Brit Youngmann, and Babak Salimi
+  link: https://www.vldb.org/pvldb/vol18/p1933-youngmann.pdf
+- year: 2025
+  venue: VLDB
+  title: "Stress-Testing ML Pipelines with Adversarial Data Corruption"
+  author: Jiongli Zhu, Geyang Xu, Felipe Lorenzi, Boris Glavic, and Babak Salimi
+  link: https://arxiv.org/abs/2506.01230
+- year: 2025
+  venue: SIGMOD Tutorial
+  title: "Navigating Data Errors in Machine Learning Pipelines: Identify, Debug, and Learn"
+  author: Bojan Karlaš, Babak Salimi, and Sebastian Schelter
+  link: https://deem.berlin/pdf/9-karlas.pdf
+- year: 2025
+  venue: SIGMOD Demo
+  title: "Zorro: Quantifying Uncertainty in Models & Predictions Arising from Dirty Data"
+  author: Kaiyuan Hu, Jiongli Zhu, Boris Glavic, and Babak Salimi
+  link: https://dl.acm.org/doi/abs/10.1145/3722212.3725143
+- year: 2025
+  venue: NeurIPS
+  title: "A Lightweight Method to Disrupt Memorized Sequences in LLM"
+  author: Parjanya Prajakta Prashant, Kaustubh Ponkshe, and Babak Salimi
+  link: https://arxiv.org/abs/2502.05159
+- year: 2025
+  venue: NeurIPS
+  title: "KAIROS: Scalable Model-Agnostic Data Valuation"
+  author: Jiongli Zhu, Parjanya Prajakta Prashant, Alex Cloninger, and Babak Salimi
+  link: https://arxiv.org/abs/2506.23799
 - year: 2025
   venue: AISTATS
   title: "Scalable Out-of-distribution Robustness in the Presence of Unobserved Confounders"
-  author: Parjanya Prashant, Seyedeh Baharan Khatami, Bruno Ribeiro, Babak Salimi
+  author: Parjanya Prashant, Seyedeh Baharan Khatami, Bruno Ribeiro, and Babak Salimi
   link: https://arxiv.org/pdf/2411.19923
 - year: 2025
   venue: AISTATS
   title: "Graph Neural Network based Double Machine Learning Estimator of Network Causal Effects"
-  author: Seyedeh Baharan Khatami, Harsh Parikh, Haowei Chen, Sudeepa Roy, Babak Salimi
+  author: Seyedeh Baharan Khatami, Harsh Parikh, Haowei Chen, Sudeepa Roy, and Babak Salimi
   link: https://arxiv.org/pdf/2403.11332
-- year: 2024
-  venue: NeurIPS
-  title: "Learning from Uncertain Data: From Possible Worlds to Possible Models"
-  author: Jiongli Zhu, Su Feng, Boris Glavic, and Babak Salimi
-  link: https://proceedings.neurips.cc/paper_files/paper/2024/file/c17fab1bcef325d0d30989c9bf506c0b-Paper-Conference.pdf
-- year: 2024
-  venue: IEEE Data Engineering Bulletin
-  title: "Overcoming Data Biases: Towards Enhanced Accuracy and Reliability in Machine Learning"
-  author: Jiongli Zhu, Babak Salimi
-  link: http://sites.computer.org/debull/A24mar/p18.pdf
 - year: 2024
   venue: VLDB
   title: "How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses"
@@ -33,6 +68,21 @@
   title: "OTClean: Data Cleaning for Conditional Independence Violations using Optimal Transport"
   author: Alireza Pirhadi, Mohammad Hossein Moslemi, Alexander Cloninger, Mostafa Milani, and Babak Salimi
   link: https://arxiv.org/abs/2403.02372
+- year: 2024
+  venue: CIKM
+  title: "Generating Cross-model Analytics Workloads Using LLMs"
+  author: Xiuwen Zheng, Arun Kumar, and Amarnath Gupta
+  link: https://adalabucsd.github.io/papers/2024_AWESOME_CIKM.pdf
+- year: 2024
+  venue: IEEE Data Engineering Bulletin
+  title: "Overcoming Data Biases: Towards Enhanced Accuracy and Reliability in Machine Learning"
+  author: Jiongli Zhu and Babak Salimi
+  link: http://sites.computer.org/debull/A24mar/p18.pdf
+- year: 2024
+  venue: NeurIPS
+  title: "Learning from Uncertain Data: From Possible Worlds to Possible Models"
+  author: Jiongli Zhu, Su Feng, Boris Glavic, and Babak Salimi
+  link: https://proceedings.neurips.cc/paper_files/paper/2024/file/c17fab1bcef325d0d30989c9bf506c0b-Paper-Conference.pdf
 - year: 2023
   venue: VLDB
   title: "Consistent Range Approximation for Fair Predictive Modeling"
