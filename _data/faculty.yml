@@ -15,9 +15,3 @@
   info: "Babak's research interests are in data management, causal inference, responsible data science, and data ethics. His work unifies techniques from DB theory, causal inference, and ML to lay the foundations for decision-making and policy evaluation from complex relational data, algorithmic fairness, explainability, and accountability."
   scholar: https://scholar.google.com/citations?user=KC8hpXkAAAAJ&hl=en
   dblp: https://dblp.uni-trier.de/pid/11/6446.html
-- name: Victor Vianu
-  photo: victor.jpg
-  web: https://cseweb.ucsd.edu/~vianu/
-  info: "Victor's research interests are in DB systems and theory. His current work focuses on verification of DB-driven systems, at the intersection of DB and computer-aided verification, and on automatic verification of interactive data-driven Web services and business processes. He is also interested in the theory of query languages and computational logic."
-  scholar: https://scholar.google.com/citations?user=CK_GLC8AAAAJ&hl=en&oi=ao
-  dblp: https://dblp.org/pers/v/Vianu:Victor.html
