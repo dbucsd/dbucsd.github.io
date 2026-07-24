@@ -10,8 +10,8 @@
   name: Database Theory
   level: graduate
 - code: CSE 234
-  name: Data Systems for Machine Learning
-  link: http://cseweb.ucsd.edu/classes/fa20/cse291-d/
+  name: Data-Centric AI and AI Engineering (formerly Data Systems for ML)
+  link: http://cseweb.ucsd.edu/classes/sp26/cse234-a/
   level: graduate
 - code: CSE 132A
   name: Database System Principles
