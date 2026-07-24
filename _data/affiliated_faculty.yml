@@ -1,8 +1,9 @@
-- name: Kamalika Chaudhuri
-  photo: kamalika.jpg
-  web: http://cseweb.ucsd.edu/~kamalika/index.html
-  info: "Kamalika's research interests lie in the area of ML. Much of her work is on privacy-preserving ML and unsupervised learning, but she's also broadly interested in learning theory, including confidence-rated prediction, online learning, and active learning."
-  scholar: https://scholar.google.com/citations?user=I-DJ7EsAAAAJ&hl=en&oi=ao
+- name: Victor Vianu
+  photo: victor.jpg
+  web: https://cseweb.ucsd.edu/~vianu/
+  info: "Victor's research interests are in DB systems and theory. His current work focuses on verification of DB-driven systems, at the intersection of DB and computer-aided verification, and on automatic verification of interactive data-driven Web services and business processes. He is also interested in the theory of query languages and computational logic."
+  scholar: https://scholar.google.com/citations?user=CK_GLC8AAAAJ&hl=en&oi=ao
+  dblp: https://dblp.org/pers/v/Vianu:Victor.html
 - name: Yannis Papakonstantinou
   photo: yannis.jpg
   web: http://db.ucsd.edu/People/yannis.htm
